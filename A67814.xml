@@ -1,0 +1,917 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wounds of the brain proved curable not only by the opinion and experience of many (the best) authors, but the remarkable history of a child four years old cured of two very large depressions, with the loss of a great part of the skull, a portion of the brain also issuing thorough [sic] a penetrating wound of the dura and pia mater / published for the encouragement of young chirurgeons, and vindication of the author James Yonge.</title>
+            <author>Yonge, James, 1647-1721.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 79 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67814</idno>
+            <idno type="STC">Wing Y43</idno>
+            <idno type="STC">ESTC R5954</idno>
+            <idno type="EEBO-CITATION">12636658</idno>
+            <idno type="OCLC">ocm 12636658</idno>
+            <idno type="VID">64878</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64878)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 678:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wounds of the brain proved curable not only by the opinion and experience of many (the best) authors, but the remarkable history of a child four years old cured of two very large depressions, with the loss of a great part of the skull, a portion of the brain also issuing thorough [sic] a penetrating wound of the dura and pia mater / published for the encouragement of young chirurgeons, and vindication of the author James Yonge.</title>
+                  <author>Yonge, James, 1647-1721.</author>
+               </titleStmt>
+               <extent>[20], 132 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for Henry Faithorn and John Kersey ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: prelim. p. [20].</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brain --  Wounds and injuries.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64878:1" rendition="simple:additions"/>
+            <pb facs="tcp:64878:1" rendition="simple:additions"/>
+            <p>WOUNDS OF THE BRAIN Proved CURABLE,</p>
+            <p>Not only by the Opinion and Experi<g ref="char:EOLhyphen"/>ence of many (the beſt) Authors, but the remarkable Hiſtory of a Child four Years old cured of two very large Depreſſions, with the loſs of a great part of the Skull, a Portion of the BRAIN alſo iſſuing, tho<g ref="char:EOLhyphen"/>rough a penetrating Wound of the <hi>Dura</hi> and <hi>Pia Mater.</hi>
+            </p>
+            <p>Publiſhed for the Encouragement of Young Chi<g ref="char:EOLhyphen"/>rurgeons, and Vindication of the Author, <hi>JAMES YONGE.</hi>
+            </p>
+            <q>
+               <hi>Haec dixi ut contradicerem</hi> Opinioſis, <hi>qui non cre<g ref="char:EOLhyphen"/>dunt cerebrum poſſe ſanari, — juia ego cognoſco, &amp;</hi> Cerebrum <hi>ſanari, &amp; alias medullas.</hi> 
+               <bibl>Jac. de Carpio, Tract. de Fr. Cranii.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> for <hi>Henry Faithorn</hi> and <hi>John Kerſey,</hi> at the <hi>Roſe</hi> in S<hi rend="sup">t</hi> 
+               <hi>Pauls Church-yard.</hi> 1682.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:64878:2" rendition="simple:additions"/>
+            <q>
+               <lg>
+                  <l>Non audita loquor, narranti credite, vidi</l>
+                  <l>His Oculis, tetigi non dubitante manu.</l>
+                  <l>Accr erat Juvenis, medio cui Vulnus adactum</l>
+                  <l>Eſt Capiti; Cerebri pars quoque caeſa fuit,</l>
+                  <l>Ille tamen vivit. Si credas Arte Melampi</l>
+                  <l>Id factum, peccas; hic Medicina ſilet.</l>
+                  <l>Monſtra ſed in Morbis Arabum Flos ille Sophorum</l>
+                  <l>Quod fieri dixit, re patet apſe palám.</l>
+               </lg>
+               <bibl>G. F. Hildan. obſ. m. Chir. 13.</bibl>
+            </q>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64878:2"/>
+            <head>To the HONOURABLE Sir <hi>HUGH PIPER</hi> K<hi rend="sup">t</hi>, Lieutenant Governor of His Majeſty's Royal Cittadel at <hi>Plimouth.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BEfore I enter the Liſts with my Adverſary, and engage in a pub<g ref="char:EOLhyphen"/>lick Vindication of my ſelf and Fraternity, I
+<pb facs="tcp:64878:3"/>preſume to put my ſelf under Your Patro<g ref="char:EOLhyphen"/>nage and Protection; For the World will have good reaſon to conclude my Com<g ref="char:EOLhyphen"/>plaint true, and my Cauſe juſt, when I dare take ſanctuary un<g ref="char:EOLhyphen"/>der Your Name, who (beſides Your impar<g ref="char:EOLhyphen"/>tial knowledge of us both) are in ſuch (o<g ref="char:EOLhyphen"/>ther) circumſtances as render the right or wrong of our preten<g ref="char:EOLhyphen"/>ces
+<pb facs="tcp:64878:3"/>eaſily diſcernible to You, and who have long ſince been well aſ<g ref="char:EOLhyphen"/>ſured of the truths here related, and (by an unqueſtionable hand) the falſhood of thoſe reflections my Anta<g ref="char:EOLhyphen"/>goniſt hath made there<g ref="char:EOLhyphen"/>on.</p>
+            <p>Theſe conſiderati<g ref="char:EOLhyphen"/>ons encouraged my preſumption, and is all the Apology I can make for it. I know there needeth none, for
+<pb facs="tcp:64878:4"/>the ſmartneſs where<g ref="char:EOLhyphen"/>with I have treated my Opponent, to a Per<g ref="char:EOLhyphen"/>ſon that underſtands ſo well as You the juſtice of ſuch reſentments, and hath with more bravery vindicated his honour by his Sword, than ever any Writer did an <hi>Hypotheſis</hi> by that ſharper Weapon his Pen.</p>
+            <p>Nor ſhall I, accor<g ref="char:EOLhyphen"/>ding to cuſtom in ap<g ref="char:EOLhyphen"/>plications of this na<g ref="char:EOLhyphen"/>ture,
+<pb facs="tcp:64878:4"/>ſeem to bribe and biaſs Your Favour, by ſoothing Flouriſhes, and complementing Harangues, though <hi>Your conſtant and un<g ref="char:EOLhyphen"/>blemiſh'd Loyalty, Your great Age and Courage, with the wonderful Briskneſs and Vivacity that accompany them;</hi> be Subjects ſo mani<g ref="char:EOLhyphen"/>feſtly large and rare for Encomium and Celebration, that I might without flatte<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:64878:5"/>praiſe and admire: Yet becauſe ſevere Men and Cenſurers will ſay, It looks more like the mercenary Addreſſes of Plays and Poems, than Seriouſ<g ref="char:EOLhyphen"/>neſs and that Integrity with which I profeſs to appeal, and defend my ſelf and my Cauſe, and is an Entertainment which few good men receive with delight; I ſhall decline it.</p>
+            <p>But thus much I
+<pb facs="tcp:64878:5"/>dare affirm, That how ſhort ſoever I may come of obtaining ſa<g ref="char:EOLhyphen"/>tisfaction by this me<g ref="char:EOLhyphen"/>thod of vindicating my ſelf, and confuting my malicious Oppoſer; I am ſure of gaining one Point of my deſign (for which I thank <hi>Him</hi>) that is, to let the whole World know that I am,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Obliged, Humble Servant, <hi>JAMES YONGE.</hi>
+               </signed>
+               <dateline>
+                  <hi>Plim.</hi> 
+                  <date>
+                     <hi>A<g ref="char:EOLhyphen"/>pril</hi> 26<hi rend="sup">th</hi> 1682.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:64878:6"/>
+            <pb facs="tcp:64878:6"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>I</hi> HAD not uſhered this ſmall Tract into the World, with the formality of a Pre<g ref="char:EOLhyphen"/>face, had it not been extremely neceſſary to give my Reader an account of the occaſion inducing me to publiſh this Caſe, and the provocations I had to handle my Opponent ſo roughly.</p>
+            <p>About two years ſince I had the good fortune to be a ſucceſſ<g ref="char:EOLhyphen"/>ful Chirurgeon to the Child, whoſe Caſe is contained in the following Narrative: But I had ſcarce wiped my Inſtru<g ref="char:EOLhyphen"/>ments, and put up my Plaiſter-Box,
+<pb facs="tcp:64878:7"/>before a Phyſician of this Town, ſneakingly and ma<g ref="char:EOLhyphen"/>liciouſly endeavoured to ſtifle the reputation Dr. <hi>Spenſer</hi> and my ſelf got by that Cure, inſinu<g ref="char:EOLhyphen"/>ating that it was impoſſible to be performed, becauſe <hi>Wounds of the Brain were abſolute<g ref="char:EOLhyphen"/>ly mortal.</hi>
+            </p>
+            <p>We endeavoured to reſcue and ſecure our credits from ſo ſpightful a calumny, by produ<g ref="char:EOLhyphen"/>cing the Parent, the Apo<g ref="char:EOLhyphen"/>thecary, and others who hand<g ref="char:EOLhyphen"/>led and ſaw what came out thorough the Wound of the <hi>Me<g ref="char:EOLhyphen"/>ninges.</hi> But that not ſatiſ<g ref="char:EOLhyphen"/>fying, we ſought Compurgators in our Books, where we found more than we expected, and
+<pb facs="tcp:64878:7"/>produced their ſuffrages, to the number of no leſs than fifty.</p>
+            <p>This was ſo unanſwerable a Proof, and clear eviction, that my Enemy retreated and be<g ref="char:EOLhyphen"/>came ſilent. Had he ſo con<g ref="char:EOLhyphen"/>tinued, this Story had remain<g ref="char:EOLhyphen"/>ed a Secret to the World: But he, impatient and diſſatisfied with peoples believing ſo many men and Books, against his ſin<g ref="char:EOLhyphen"/>gle and groundleſs opinion; very lately took occaſion (unprovo<g ref="char:EOLhyphen"/>ked by any man) in company of divers Gentlemen, in a publick place, to renew his reflections on us, repeating with the ut<g ref="char:EOLhyphen"/>moſt advantage his great malice and little wit could afford, thoſe objections we had ſo long ago
+<pb facs="tcp:64878:8"/>baffled and confuted; and, not content to bound his ſcurrility there, he proceeded to vilifie all the Chirurgeons in this place, calling us, <hi>A Company of Ignoramus's, fit for nothing but to cut Corns.</hi>
+            </p>
+            <p>Judge, if theſe repeated pro<g ref="char:EOLhyphen"/>vocations and affronts were not enough to raiſe reſentments in any man that had but common ſence, or regard of his credit, and tenderneſs for his good name: I accordingly took a ſpeedy opportunity to confront him, offered to produce Autho<g ref="char:EOLhyphen"/>rities againſt his Objections, and to vindicate our own affir<g ref="char:EOLhyphen"/>mation. He himſelf nomina<g ref="char:EOLhyphen"/>ted time and place for the deci<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:64878:8"/>the Queſtion; but as un<g ref="char:EOLhyphen"/>generouſly (abſenting) declined the Teſt, as he rudely gave the occaſion. I reſolved therefore, ſince he would not abide a pri<g ref="char:EOLhyphen"/>vate tryal, to refer my Cauſe to the World, and by a publick Vindication ſtop his mouth for ever.</p>
+            <p>Having thus ſignified the occaſion and provocation to this Effort, I hope the ſharpneſs wherewith I have treated him will not be thought rude, nor thoſe little heats and excurſions in the Epilogue, cauſleſs. Had he ſtuck to his firſt reflection, (though that wanted not its Dirt) and acted like a Diſpu<g ref="char:EOLhyphen"/>tant only, I had behaved my
+<pb facs="tcp:64878:9"/>ſelf accordingly, and continued to oppoſe him with as ſoft words and hard arguments as I could. But when he forſook the Scho<g ref="char:EOLhyphen"/>lar, and took up the part of a Railer, when he became re<g ref="char:EOLhyphen"/>proachful and contumelious; I reſolved to deal with him accord<g ref="char:EOLhyphen"/>ing to his demerit.</p>
+            <p>I am not inſenſible how little eſteem this contentious way of Writing hath in the World, and that a ſuperfoetation of Contro<g ref="char:EOLhyphen"/>verſies hath ſurfeited even a wrangling Age: But certainly for a man to be call'd Fool and Knave unjuſtly, to be diſpara<g ref="char:EOLhyphen"/>ged in his reputation and way of living, belied and reproached in his Practice, on which the life
+<pb facs="tcp:64878:9"/>and happineſs of himſelf and Family depends, and this by a ſeries of words and actions ſome years long, is ſuch an intolera<g ref="char:EOLhyphen"/>ble indignity and barbarous af<g ref="char:EOLhyphen"/>front, as will excuſe and juſti<g ref="char:EOLhyphen"/>fie the ſharpeſt reſentment: To ſuffer ſuch abuſes tamely, is to betray and expoſe a mans ſelf to the laſh of every injurious Ca<g ref="char:EOLhyphen"/>lumniator, and encourage ill<g ref="char:EOLhyphen"/>minded men to trample on and abuſe us.</p>
+            <p>Wherefore, let Controverſie and recrimination be ever ſo im<g ref="char:EOLhyphen"/>modiſh, I ſhall not be thereby de<g ref="char:EOLhyphen"/>terred from acting once more out of faſhion. If my Adverſary per<g ref="char:EOLhyphen"/>form his threatning promiſe, and anſwer me publickly, I will re<g ref="char:EOLhyphen"/>join,
+<pb facs="tcp:64878:10"/>
+               <hi>and that with ſo little fa<g ref="char:EOLhyphen"/>vour to him, that in compariſon with it, the ſmarteſt I have here ſaid will appear very infe<g ref="char:EOLhyphen"/>riour.</hi>
+            </p>
+            <p>
+               <hi>But I know my Cauſe to be impregnable against the ſtrong<g ref="char:EOLhyphen"/>eſt attacks he can make; and how otherwiſe inconvenient (to ſay no worſe) it's for him to at<g ref="char:EOLhyphen"/>tempt what he hath menaced.</hi>
+            </p>
+         </div>
+         <div type="bibliography">
+            <pb facs="tcp:64878:10"/>
+            <head>An Alphabetical Catalogue of the Au<g ref="char:EOLhyphen"/>thors quoted to prove, Wounds of the BRAIN not ab<g ref="char:EOLhyphen"/>ſolutely mortal.</head>
+            <list>
+               <item>ACademia Curioſa Germ.</item>
+               <item>Alexander Benedictus,</item>
+               <item>Alexander Read,</item>
+               <item>Amatus Luſitanus,</item>
+               <item>Ambroſ. Pareus,</item>
+               <item>Andreas Laurentius,</item>
+               <item>Bartapalea,</item>
+               <item>Bernardus Gordonus,</item>
+               <item>Cabriolus,</item>
+               <item>Caſpar Bauhinus,</item>
+               <item>Cornelius Celſus,</item>
+               <item>Cornelius Gemma,</item>
+               <item>Chriſtopherus à Vega,</item>
+               <item>Danielus Senertus,</item>
+               <item>Deſiderius Jacotius,</item>
+               <item>Felix Wurtz,</item>
+               <item>Franciſcus Arceus,</item>
+               <item>Franciſcus Sanchez,</item>
+               <item>Franciſcus Valeriolus,</item>
+               <item>Gabrielus Fallopius,</item>
+               <item>Galenus,</item>
+               <item>Georgius Horſtius,</item>
+               <item>Glandorp,</item>
+               <item>Guido Cauliacus,</item>
+               <item>G. Fabricius Hildanus,</item>
+               <item>Henricus Petreus,</item>
+               <item>H. Fab. ab Aquapendente,</item>
+               <item>Hilkiah Crook,</item>
+               <item>Horatus Augenius,</item>
+               <item>Jacobus de Carpio,</item>
+               <item>Jann Van Beverwik,</item>
+               <item>James Cook,</item>
+               <item>Jaques Guilleameu,</item>
+               <item>Joannes And<g ref="char:punc">▪</g> à Cruce,</item>
+               <item>John Baniſter,</item>
+               <item>John Brown,</item>
+               <item>Joannes Bilgerus,</item>
+               <item>Joannes Fernelius,</item>
+               <item>John Goulart,</item>
+               <item>Joannes Heurnius,</item>
+               <item>Joannes Langius,</item>
+               <item>Joannes Rhodius,</item>
+               <item>Joannes Scultetus,</item>
+               <item>Joannes Skenckius,</item>
+               <item>Joannes Tagaultius,</item>
+               <item>Joannes Veſlingius,</item>
+               <item>Leonardus Fuchſius,</item>
+               <item>Marcellus Donatus,</item>
+               <item>Muſa Braſavolus,</item>
+               <item>Nicolas Nicolaus Flor<g ref="char:punc">▪</g>
+               </item>
+               <item>Paul Barbet,</item>
+               <item>Peter Borellas,</item>
+               <pb facs="tcp:64878:11"/>
+               <item>P. J. Fabrus,</item>
+               <item>Petter Foreſtus,</item>
+               <item>Phil. Jacobus Sanchz,</item>
+               <item>P. J. Lotichius,</item>
+               <item>Peter de Marchetis,</item>
+               <item>Peter Pigreus,</item>
+               <item>Serjeant Wiſeman,</item>
+               <item>Symon Aloyſius,</item>
+               <item>Symphor, Campegius,</item>
+               <item>Theodoricus,</item>
+               <item>Thomas Bartholine,</item>
+               <item>Volcher Coitarus,</item>
+               <item>Zacutus Luſitanus.</item>
+            </list>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge <hi>11.</hi> line <hi>20.</hi> read ℥<hi>viii.</hi> p. <hi>19.</hi> l. <hi>19.</hi> r. Rad. Poeo<g ref="char:EOLhyphen"/>niae, p. <hi>27.</hi> l. <hi>12.</hi> r. <hi>Cephalick Julep,</hi> p. <hi>46.</hi> l. <hi>12.</hi> r. <hi>all elſe,</hi> p. <hi>49.</hi> l. <hi>18.</hi> r. <hi>Objection.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:64878:11"/>
+            <div type="account">
+               <head>THE HISTORY OF A <hi>Wound in a Childs Brain, cu<g ref="char:EOLhyphen"/>red, although ſome part thereof iſſued forth, toge<g ref="char:EOLhyphen"/>ther with a large piece of the Skull; with Remarks thereon.</hi>
+               </head>
+               <p>ON <hi>Saturday</hi> the 28. of <hi>February</hi> 1679. I was called to <hi>Swilly,</hi> a Houſe above a Mile diſtant from <hi>Plimouth,</hi> where Mr. <hi>John Stone</hi> was retired with his Family, to ſecure them from the ſmall
+<pb n="2" facs="tcp:64878:12"/>Pox , at that time raging in Town: He had a Daughter, almoſt ſix Years old, and a Son that was then four Years, and two Months, a ſanguine fair Child, but ſomewhat ſick<g ref="char:EOLhyphen"/>ly.</p>
+               <p>Theſe two endeavour<g ref="char:EOLhyphen"/>ing to get into a Field, where they eſpied a Maid milking of Kine, pull'd at the Gate thereof, which ſhe had ſhut; they unhap<g ref="char:EOLhyphen"/>pily tug'd at a part of it which was heavieſt, and looſe, and by their little ſtrength, made the defe<g ref="char:EOLhyphen"/>ctive hinges give way, ſo that the Gate fell upon
+<pb n="3" facs="tcp:64878:12"/>them; the Girl eſcaped without hurt, but the Boy unluckily falling, had his head cruſhed between the heavy end of the Gate, (ſo heavy, that a man could ſcarce lift it) and a ſmall ſtone, that ſtood above the level of the ground: this ſtone bore againſt the left <hi>Bregma</hi> ſomewhat above the Ear; oppoſite to which on the other ſide, about the ſame diſtance from that Ear, a pin of Wood an inch ſquare, that ſtood out half an inch from the Gate, and ſerved to faſten an ob<g ref="char:EOLhyphen"/>lique piece to the bars; being forced by the weight
+<pb n="4" facs="tcp:64878:13"/>of the Gate, made a ſmall wound, but a very great depreſſion; it bled much, the Child cryed a little, did not faint, nor convulſe, only vomited two or three times.</p>
+               <p>This Accident hapned ſome hours before I came to the Houſe, in all which time, nothing had been applyed to, or removed from the Head; I preſent<g ref="char:EOLhyphen"/>ly laid it bare, and upon examination by my fin<g ref="char:EOLhyphen"/>gers, found where this little wound was, and that the Skull under it was largely depreſt; I cut and ſhaved away the hair from about
+<pb n="5" facs="tcp:64878:13"/>it, in doing which, I uſed warm Sack diluted with water, and glowing coals, (not charcoal, it being hurtful to the head, and ſuffocating) to prevent ill impreſſions from the air, at this time cold and raw.</p>
+               <p>That being done, I en<g ref="char:EOLhyphen"/>tred my Probe at the wound, and found the ſcalp ſeparate from the skull a great way, and that there was a very large depreſſion of the latter; I therefore reſolved without delay to dilate it, and free the <hi>Dura Mater</hi> from any ſhivers or ſplinters of the bone, that might prick or
+<pb n="6" facs="tcp:64878:14"/>offend it. Mr. <hi>Knotsford</hi> the Apothecary, was juſt then (unknown to me) come into the chamber, and ſtood be<g ref="char:EOLhyphen"/>hind me, when withdraw<g ref="char:EOLhyphen"/>ing my Probe, ſome of the Brain came out upon it; I rub'd it on my hand, and bruiſed it with my finger, and found it to be Brain. Before I would proceed to inciſion, I entred my Probe again with the eye for<g ref="char:EOLhyphen"/>ward, and endeavoured to get out what I could at once (the inſtrument being both times without the skull only) it brought forth as much as two Pea's, Mr. <hi>knotsford</hi> preſently appre<g ref="char:EOLhyphen"/>hended
+<pb n="7" facs="tcp:64878:14"/>it, and whiſpered to me that it was Brain; I then put it from my In<g ref="char:EOLhyphen"/>ſtrument on his hand, and proceeded to dilate the wound by an inciſion knife; after doing it, ſeveral par<g ref="char:EOLhyphen"/>cels of Brain appeared a<g ref="char:EOLhyphen"/>mong the blood, I cleaned it off, and finding the de<g ref="char:EOLhyphen"/>preſſion to be but of one piece, and that none of it, or ought elſe offended the <hi>Dura Mater,</hi> I dreſt it up with Doſſils, dipt in <hi>Mel Roſatum,</hi> and Spirit of Wine made warm, and co<g ref="char:EOLhyphen"/>vered all with a plegent of <hi>linimentum Arcei.</hi>
+               </p>
+               <p>This great miſchief, I
+<pb n="8" facs="tcp:64878:15"/>found, was done by the Pin of the Gate, a Figure of which I have here inſerted, that every Reader may be able to underſtand this part of the Story. The place where the Pin was, is mark<g ref="char:EOLhyphen"/>ed +</p>
+               <figure>
+                  <figDesc>disagram of a gate</figDesc>
+               </figure>
+               <p>This Wound, thus dreſt up, I examined the reſt of the Head, and found on the
+<pb n="9" facs="tcp:64878:15"/>other <hi>Bregma,</hi> an <hi>Ecchymo<g ref="char:EOLhyphen"/>ſis;</hi> and under it another depreſſion. I ſhaved off the Hair from thence alſo, and with the ſame Razor exci<g ref="char:EOLhyphen"/>ſed a piece of the Scalp, as big as a Shilling, which laid bare the depreſſion and fracture, which was ſuch as I could not then elevate. I fill'd this wound with Doſ<g ref="char:EOLhyphen"/>ſils of dry Lint, covered with a plegent of <hi>Arceus li<g ref="char:EOLhyphen"/>niment,</hi> over all laid a Plai<g ref="char:EOLhyphen"/>ſter, rowled up the head, and laid the Child (who endured all with incredible courage) to Bed, his head bolſter'd as high as he could well lye.</p>
+               <pb n="10" facs="tcp:64878:16"/>
+               <p>Having diſpatcht a Meſ<g ref="char:EOLhyphen"/>ſenger to <hi>Plimouth</hi> for ne<g ref="char:EOLhyphen"/>ceſſaries, I examined that part of the Brain which I had taken out; the Father, Mr. <hi>Knotsford,</hi> and others, ſaw it, and were aſſured that it was ſuch; no man of brains can imagine what elſe it could be. I then gave the Father a dreadful Prognoſtick, though not of poſitive death, (as I ſecret<g ref="char:EOLhyphen"/>ly thought) but the utmoſt hazard thereof, and deſired the aſſiſtance of Doctor <hi>Spenſer.</hi>
+               </p>
+               <p>That Evening I gave the Child a Clyſter, which having wrought two or
+<pb n="11" facs="tcp:64878:16"/>three times, I got him to take the following mixture to ſweat, and a little draught of a Cephalick Julep upon it, theſe kept him in a ſmall Diaphoreſis all Night, the Julep in little quantities being ſometimes repeated to him; they being Dia<g ref="char:EOLhyphen"/>phoretical and Cephalick, were good for the deſign I then had, <hi>viz.</hi> to comfort and relieve the Brain and Head, ſo egregiouſly hurt<g ref="char:EOLhyphen"/>ed; and to prevent coagu<g ref="char:EOLhyphen"/>lation, or other miſchie<g ref="char:EOLhyphen"/>vous effect, of the Contuſi<g ref="char:EOLhyphen"/>on.</p>
+               <list>
+                  <head>The Clyſter.</head>
+                  <item>℞ <hi>Decoct. com. pro Clyſt.</hi> ℥x. <hi>Mel. Anthoſat.</hi>
+                  </item>
+                  <pb n="12" facs="tcp:64878:17"/>
+                  <item>
+                     <hi>Ol. Hyperrici c. ana</hi> ℥ij.</item>
+                  <item>
+                     <hi>Succini Chym. Gut.</hi> 8.</item>
+                  <item>
+                     <hi>Sal Gemmae</hi> 
+                     <g ref="char:dram">ʒ</g>ſx.</item>
+                  <item>
+                     <hi>M. fiat Clyſt.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The Sudorifick Mixture.</head>
+                  <item>℞ <hi>Pulv. ad Caſum</hi> 
+                     <g ref="char:dram">ʒ</g>s.</item>
+                  <item>
+                     <hi>Sperm. Ceti gr.</hi> 12.</item>
+                  <item>
+                     <hi>Balſam. Peruv. gut.</hi> iij.</item>
+                  <item>
+                     <hi>Syr. Betonicae</hi> ℥ſs. <hi>miſce.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The Cephalick Julep.</head>
+                  <item>℞ <hi>aq. Ceraſor. nigr.</hi>
+                  </item>
+                  <item>
+                     <hi>Flor. Tiliae.</hi>
+                  </item>
+                  <item>
+                     <hi>Jugland.</hi> s.</item>
+                  <item>
+                     <hi>Betonicae ana</hi> ℥iij.</item>
+                  <item>
+                     <hi>Syr. paralyſeos</hi>
+                  </item>
+                  <item>
+                     <hi>Aq. poeoniae comp. ana</hi> ℥ij.</item>
+                  <item>
+                     <hi>Pulv. guttetae</hi>
+                  </item>
+                  <item>
+                     <hi>Tinct. ſuccini ana</hi> 
+                     <g ref="char:dram">ʒ</g>i. <hi>M.</hi>
+                  </item>
+               </list>
+               <pb n="13" facs="tcp:64878:17"/>
+               <p>The Child ſweated very well, and ſlept quiet moſt part of the Night, had no more vomitings or convul<g ref="char:EOLhyphen"/>ſions, <hi>&amp;c.</hi> but was as if he ailed no other than a com<g ref="char:EOLhyphen"/>mon ſlight wound of the head.</p>
+               <figure/>
+               <p>The ſharp Point was de<g ref="char:EOLhyphen"/>preſt ſo, as the ſurface of it was contiguous with the in<g ref="char:EOLhyphen"/>ſide of the Skull, from whence it was ſeparated, ſo that it was fallen juſt the thickneſs of the Child's <hi>cra<g ref="char:EOLhyphen"/>nium;</hi> this made us fear it might hurt the <hi>Dura Mater,</hi> and therefore we reſolved (though no ſymptom argu<g ref="char:EOLhyphen"/>ed any ſuch thing) to at tempt the raiſing of it. I was ſo cloſe, that we could not enter an Elevatory, and therefore at that time
+<pb n="15" facs="tcp:64878:18"/>left it, as it was, and dreſt it up as the day before; all this while the whole head was guarded with woollen ſtuphes, wrung out of the following fomentation, made hot.</p>
+               <list>
+                  <head>The Fomentation.</head>
+                  <item>℞ <hi>Fol. Betonicae m.</hi> iij.</item>
+                  <item>
+                     <hi>Verbenae,</hi>
+                  </item>
+                  <item>
+                     <hi>Centaurii,</hi>
+                  </item>
+                  <item>
+                     <hi>Hyperici,</hi>
+                  </item>
+                  <item>
+                     <hi>Paralyſeos ana. m.</hi> ij.</item>
+                  <item>
+                     <hi>Herb. Salviae,</hi>
+                  </item>
+                  <item>
+                     <hi>Roriſmarini,</hi>
+                  </item>
+                  <item>
+                     <hi>Lavendulae ana. m.</hi> j.</item>
+                  <item>
+                     <hi>Praep. &amp; coq. aquaf. q. ſ f. colatura.</hi>
+                  </item>
+               </list>
+               <p>Opening the other wound, and taking out
+<pb n="16" facs="tcp:64878:19"/>the Doſſils that I had laid in the day before, ſeveral ſmall portions of the Brain ſhewed themſelves among the grumous Blood, and on the dreſs; but we were not more aſtoniſht at that, than when we ſaw a pro<g ref="char:EOLhyphen"/>digious piece of the skull, beaten in, and wholly ſepa<g ref="char:EOLhyphen"/>rate from the reſt, and (which was a very ill cir<g ref="char:EOLhyphen"/>cumſtance) the outward table being broken nar<g ref="char:EOLhyphen"/>rower than the innermoſt, made the deepeſt piece lar<g ref="char:EOLhyphen"/>ger than the hole it had made, ſo that at that time we could not get it out, and indeed we were
+<pb n="17" facs="tcp:64878:19"/>not ſollicitous of it, ſince it no where hurt the <hi>Dura Mater,</hi> and for ought we knew, might ſuccour the torn <hi>Meninges</hi> and keep the Brain from ſpewing out extravagantly. So that having cleared the part of matter, <hi>&amp;c.</hi> I then only made yeſterdays inciſion into a cruciat, by which that whole fracture lay o<g ref="char:EOLhyphen"/>pen; we dreſs'd him as be<g ref="char:EOLhyphen"/>fore, and rowled up his head upon a Stuphe, dry wrung from the fomenta<g ref="char:EOLhyphen"/>tion. A little before, and during this dreſs, he took of his Cordial, Cephalick Julep, though the Child's
+<pb n="18" facs="tcp:64878:20"/>courage ſeemed not to need it. He had no heats upon him, nor made any com<g ref="char:EOLhyphen"/>plaint, but a little of the inciſion; although he was as perfectly ſenſible and ap<g ref="char:EOLhyphen"/>prehenſive as ever. The ſame Julep was kept by him, that was firſt order<g ref="char:EOLhyphen"/>ed, excepting that inſtead of <hi>Syr. Florum Paralyſeos,</hi> was mixed <hi>Syr. Poeoniae ſimpl.</hi> and the addition of <hi>Aqua Hirundinis, Rond.</hi> ℥i. The Clyſter was repeated every day for ſome conſiderable time, as being extremely neceſſary to divert humors from a too great recourſe to the head.</p>
+               <pb n="19" facs="tcp:64878:20"/>
+               <p>His Diet was Water-Grewel, with Corinths, <hi>&amp;c.</hi> thin Broth of a Chic<g ref="char:EOLhyphen"/>ken, wherewith was boil<g ref="char:EOLhyphen"/>ed Pearl Barley, Harts<g ref="char:EOLhyphen"/>horn, Raſpt Ivory, Flow<g ref="char:EOLhyphen"/>ers of ſingle Poeony, Sage and Roſemary; he ſome<g ref="char:EOLhyphen"/>times drank ſmall beer (not bitter) with a Toſt rub'd with Nutmeg, but more commonly the following Julep:</p>
+               <list>
+                  <item>℞<hi>Flor. Poeoniae</hi>
+                  </item>
+                  <item>
+                     <hi>Roriſmarini ana</hi> P.j.</item>
+                  <item>
+                     <hi>Hordei perlat.</hi>
+                  </item>
+                  <item>
+                     <hi>Raſ. C. Cervi</hi>
+                  </item>
+                  <item>
+                     <hi>Eboris ana ℥ſs.</hi>
+                  </item>
+                  <item>℞ <hi>Poeoniae M.</hi> 
+                     <g ref="char:dram">ʒ</g>iij.</item>
+                  <item>
+                     <hi>Viſc. Quercin.</hi> 
+                     <g ref="char:dram">ʒ</g>iſs.</item>
+                  <pb n="20" facs="tcp:64878:21"/>
+                  <item>
+                     <hi>Tamarindar. ℥i. coq. aq.</hi>
+                  </item>
+                  <item>
+                     <hi>Font. lib. iij. ad lib. ij.</hi>
+                  </item>
+                  <item>℞ <hi>Colaturae lib. ij.</hi>
+                  </item>
+                  <item>
+                     <hi>Syr. Poeoniae</hi> ℥ij.</item>
+                  <item>
+                     <hi>Aq. Poeoniae comp.</hi> ℥j.</item>
+                  <item>
+                     <hi>Miſce.</hi>
+                  </item>
+               </list>
+               <p>The ſecond Night the Child ſlept indifferently well, and continued in good temper and courage; we again opened the left ſide, and attempted to fa<g ref="char:EOLhyphen"/>ſten a <hi>Terebra</hi> into the de<g ref="char:EOLhyphen"/>preſs'd Skull, and thereby to raiſe it: But it ſeemed ſo to ſhake, and yield to the preſſure of that Inſtru<g ref="char:EOLhyphen"/>ment, that we deſiſted, doubting it might force it wholly in, to which (con<g ref="char:EOLhyphen"/>ſidering
+<pb n="21" facs="tcp:64878:21"/>how ſmall the ſound part was) we feared it would be very incident.</p>
+               <p>I endeavoured therefore by a Head Saw and a Raſp, to enlarge one of the Seams, that we might en<g ref="char:EOLhyphen"/>ter an Elevatory; but when we had done ſo, we could not raiſe it, without hazard of forcing down the ſound part of the Skull, or breaking in pieces the de<g ref="char:EOLhyphen"/>preſs'd, the one was ſo thin and weak, and the o<g ref="char:EOLhyphen"/>ther ſo tyed down, to its depreſſion.</p>
+               <p>Conſidering therefore that we had made breath<g ref="char:EOLhyphen"/>ing enough, that there was
+<pb n="20" facs="tcp:64878:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:64878:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:64878:23"/>no ill ſymptome, and that when any occurred we ſhould have time enough to uſe force; we reſolved to let it remain, and, ſtrew<g ref="char:EOLhyphen"/>ing Cephalick Powder on it, with dry Plegents of Lint, dreſs'd it up as beſore, and betook our ſelves to the other more dangerous part of our work. Upon opening of which, we ſaw again ſome little owzings of the Brain among the mat<g ref="char:EOLhyphen"/>ter; but not ſo very diſtinct as before: we now reſol<g ref="char:EOLhyphen"/>ved to extract the piece of Skull. After ſome little time I did it, by turning it ſo that the narroweſt
+<pb n="23" facs="tcp:64878:23"/>part of it might come to the broadeſt of the Gap, when holding it faſt with a Crow's Bill, it eaſily came forth. It was dread<g ref="char:EOLhyphen"/>ful to behold what a breach it left, as may be imagined by the following Figure, which is exactly its ſhape and bigneſs.</p>
+               <figure>
+                  <figDesc>diagram of the piece of skull</figDesc>
+               </figure>
+               <p>
+                  <hi>A is the part that was un<g ref="char:EOLhyphen"/>dermoſt, next towards the ear.</hi>
+                  <pb n="24" facs="tcp:64878:24"/>B <hi>is a rima or fracture of the outward Table only, the in<g ref="char:EOLhyphen"/>ward remaining whole, but on the depreſſion bent, and yield<g ref="char:EOLhyphen"/>ed ſo, that the Angle of that part, marked</hi> A <hi>(the edge whereof was very keen, by the oblique tranſient diviſion there<g ref="char:EOLhyphen"/>of) ran throught the</hi> Meninges, <hi>into the Brain. This we conclu<g ref="char:EOLhyphen"/>ded from the place where the wound was made, and the length of it, both correſpond<g ref="char:EOLhyphen"/>ing with the ſituation, of that part of the depreſt Skull, and the length of that end of it, which bent at that crack, like a half broken Stick.</hi> C <hi>is the end towards the Lambdoidal ſuture.</hi> D <hi>that towards the
+<pb n="25" facs="tcp:64878:24"/>Coronal.</hi> E <hi>the upper part to<g ref="char:EOLhyphen"/>wards the Sagittal.</hi>
+               </p>
+               <p>The wound on the Membranes we ſaw plain<g ref="char:EOLhyphen"/>ly, with ſome effuſion of the Brain; but it happen<g ref="char:EOLhyphen"/>ed (though in the inferior, and conſequently moſt diſ<g ref="char:EOLhyphen"/>advantageous place, be<g ref="char:EOLhyphen"/>cauſe more apt to ſhed Brain) that it was below the edge of the ſound Skull, ſo that it became ſuccoured thereby, and (the Child being young, the Membranes more ſoft, and apt to conſoliclate) co<g ref="char:EOLhyphen"/>aleſced the ſooner, for af<g ref="char:EOLhyphen"/>ter four days we ſaw no Brain.</p>
+               <pb n="26" facs="tcp:64878:25"/>
+               <p>We made our dreſs this time after this manner. We had a good Guard of hot Stuphes, to defend from the Air, and having clean<g ref="char:EOLhyphen"/>ſed out the part, and ſmoo<g ref="char:EOLhyphen"/>thed the uneven edge of the Skull, we dipt a <hi>Synclon</hi> (that is a piece of fine Cloath, bigger than the extracted Skull, having a thred faſtned to the mid<g ref="char:EOLhyphen"/>dle to draw it forth by) in<g ref="char:EOLhyphen"/>to a mixture of warm Spi<g ref="char:EOLhyphen"/>rit of Wine, Honey of Ro<g ref="char:EOLhyphen"/>ſes, and Balſam of <hi>Peru,</hi> and with a Probe thruſt the edge of it between the Skull and <hi>Dura Mater.</hi> Upon it was ſtrewed Cephalick
+<pb n="27" facs="tcp:64878:25"/>Powder, covered with dry Lint. Then I ſnipt off the lips of the Cruciat, and, laying on a plegent, arm<g ref="char:EOLhyphen"/>ed with <hi>Arceus's Liniment,</hi> rowl'd him up. This day we ordered <hi>Tinctura Ambrae Griſeae</hi> to be given in his Cordial, ſix or eight drops at a time, as there appear<g ref="char:EOLhyphen"/>ed need. The Cephalick Cordial he took at plea<g ref="char:EOLhyphen"/>ſure.</p>
+               <p>And here I cannot for<g ref="char:EOLhyphen"/>bear to celebrate the admi<g ref="char:EOLhyphen"/>rable, and as it were pru<g ref="char:EOLhyphen"/>dent, courage of this little Gentleman, more eſpecial<g ref="char:EOLhyphen"/>ly remarkable in three things; Firſt, That he was
+<pb n="28" facs="tcp:64878:26"/>very quiet and ſteady, ſcarce wincing at whatever was done; and this from a ſenſe of its being beneficial and inevitable: as appears by the ſecond, That when one of the By-ſtanders (whilſt I cut him) obſer<g ref="char:EOLhyphen"/>ving him mute, feared him to be in a ſwound, and peeping into his face, ask'd him how he did, he briskly replyed, Pretty well; and, as if he had apprehended the cauſe of her enquiry, added, <hi>They don't hurt me.</hi> Thirdly, That once, on a more painful and tedious dreſs than ordinary, he pre<g ref="char:EOLhyphen"/>vented himſelf from crying
+<pb n="29" facs="tcp:64878:26"/>by biting a Linnen Cloth hard in his teeth, and pul<g ref="char:EOLhyphen"/>ling it with both hands; A cunning way to eaſe him<g ref="char:EOLhyphen"/>ſelf, and be ſilent!</p>
+               <p>Next Day, being the 4th from his hurt, we found he had had a good Night, and was couragious to a Miracle; I ſhaved the whole head, anointed it with a Cephalick, Balſa<g ref="char:EOLhyphen"/>mous Liniment, and laid on a Plaiſter of equal parts, <hi>Opodeldoch,</hi> and <hi>Empl. de Be<g ref="char:EOLhyphen"/>tonica,</hi> then dreſſed the wounds as before, and co<g ref="char:EOLhyphen"/>vered them with Plaſters made of equal parts of <hi>Di<g ref="char:EOLhyphen"/>apalma</hi> and <hi>de Detonica;</hi> ſome
+<pb n="28" facs="tcp:64878:27"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="29" facs="tcp:64878:27"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="30" facs="tcp:64878:28"/>Vulneraries were added to the common Julep, and the Flowers of Betony, Roſema<g ref="char:EOLhyphen"/>ry, Sage, and Poeony, ſee<g ref="char:EOLhyphen"/>thed in his Broths and Grew<g ref="char:EOLhyphen"/>el, by which they were not only made Cephalick, and good for the part of<g ref="char:EOLhyphen"/>fended, but balſamous, and a remedy for the wounds, and other effects of the contuſion. Each dreſſing we did alſo anoint the Neck all round, the Tem<g ref="char:EOLhyphen"/>ples, behind the Ears, and on the Back-bone, with the following Liniment, (the ſame wherewith we had anointed the Head be<g ref="char:EOLhyphen"/>fore the Plaſter was laid
+<pb n="31" facs="tcp:64878:28"/>on) the deſign being to comfort, ſtrengthen and heal thoſe parts.</p>
+               <list>
+                  <item>
+                     <hi>℞ Ol. Catellorum,</hi>
+                  </item>
+                  <item>
+                     <hi>Hirundinis,</hi>
+                  </item>
+                  <item>
+                     <hi>Caſtorei, ana ℥ ss.</hi>
+                  </item>
+                  <item>
+                     <hi>Nucis M. per Inf. <g ref="char:dram">ʒ</g>ij.</hi>
+                  </item>
+                  <item>
+                     <hi>Succini rect. ℈j.</hi>
+                  </item>
+                  <item>
+                     <hi>Balſam. Peruviani <g ref="char:dram">ʒ</g>j miſce.</hi>
+                  </item>
+               </list>
+               <p>The Child continued in great heart and courage, under the uſe of theſe means, for many days, no remarkable ſymptom or al<g ref="char:EOLhyphen"/>teration occurring, ſave that the wound became more tender. After a few Days, when we ſaw the continuance of that Balſa<g ref="char:EOLhyphen"/>mous Dreſs, to the <hi>craſſa</hi>
+                  <pb n="32" facs="tcp:64878:29"/>
+                  <hi>meninx,</hi> had united the wound there, we uſed in<g ref="char:EOLhyphen"/>ſtead of it, what might be more digeſtive,</p>
+               <list>
+                  <item>
+                     <hi>℞ Liniment. Arcei,</hi>
+                  </item>
+                  <item>
+                     <hi>Ol. Roſarum ana ℥ss.</hi>
+                  </item>
+                  <item>
+                     <hi>Terebinthinae <g ref="char:dram">ʒ</g>ij.</hi>
+                  </item>
+                  <item>
+                     <hi>Balſ. Peruviani <g ref="char:dram">ʒ</g>j. miſce.</hi>
+                  </item>
+               </list>
+               <p>The <hi>Syndon</hi> being dipt in ſome of this, made warm, produced good di<g ref="char:EOLhyphen"/>geſtion in a ſhort time, but the Skull ſcaled very ſlow<g ref="char:EOLhyphen"/>ly, a thing not unuſual, and without cauſe in Chil<g ref="char:EOLhyphen"/>dren, whoſe Bones being ſoft and moiſt, are there<g ref="char:EOLhyphen"/>fore tedious in exfoliation; we uſed nothing at firſt to induce it, but this Cephalick Powder,</p>
+               <pb n="33" facs="tcp:64878:29"/>
+               <list>
+                  <item>
+                     <hi>℞ Rad. Ariſtoloch. R.</hi>
+                  </item>
+                  <item>
+                     <hi>Iridis Florent.</hi>
+                  </item>
+                  <item>
+                     <hi>Dictamni,</hi>
+                  </item>
+                  <item>
+                     <hi>Roriſmarini ſic.</hi>
+                  </item>
+                  <item>
+                     <hi>Sarcocollae,</hi>
+                  </item>
+                  <item>
+                     <hi>Myrrhae,</hi>
+                  </item>
+                  <item>
+                     <hi>Olibani, ana <g ref="char:dram">ʒ</g>j, fiat pulv.</hi>
+                  </item>
+                  <item>
+                     <hi>ſubtiliſ.</hi>
+                  </item>
+               </list>
+               <p>and towards the end to have it more drying, to ſuppreſs or prevent <hi>fungus,</hi> and quicken deſquamation, added the Bark of <hi>Guaiacum</hi> in Powder to it. In all that time the Powder by exſiccating the moiſture that cauſeth <hi>fungus's,</hi> kept any from ariſing, a thing ſo uſual and vexatious in Children, that ſcarce a
+<pb n="34" facs="tcp:64878:30"/>ſmall wound in their heads can be cured without it. To be ſhort, the <hi>Dura Ma<g ref="char:EOLhyphen"/>ter</hi> united in four or five days, the unition was con<g ref="char:EOLhyphen"/>firmed, ſo as we uſed dige<g ref="char:EOLhyphen"/>ſives after five more, di<g ref="char:EOLhyphen"/>geſtion was procured in a Week after. And in about ſix Weeks from the firſt dreſs, the Skull ſcaled, the Fleſh grew up from the <hi>Dura Mater,</hi> and under the ſcalings of the Skull, and became level with the Skin; it would ſometimes be exuberant, and ſoft or ſpongy, before it could be cicatrized, a gentle touch of Roman Vitriol, and
+<pb n="35" facs="tcp:64878:30"/>ſometimes ſtrewing pre<g ref="char:EOLhyphen"/>pared <hi>Lapis Calaminaris</hi> thereon, ſhrank it up, and cicatrized the left wound in ſeven Weeks; but the right remained three months. For it was not only difficult to make a final de<g ref="char:EOLhyphen"/>ſiccation thereof, becauſe of the moiſture gleeting from within the <hi>Cranium,</hi> but neceſſary to delay it, that the matter might diſ<g ref="char:EOLhyphen"/>charge it ſelf, as it gradu<g ref="char:EOLhyphen"/>ally decreaſed. In perform<g ref="char:EOLhyphen"/>ing this laſt part, I uſed a very deſiccative Sparadrap-Plaſter, (that is, made by dipping Cloths in it when relented) which being laid
+<pb n="36" facs="tcp:64878:31"/>double ſerved not only as a deſiccative and a de<g ref="char:EOLhyphen"/>fender from confluxion, by its gentle adſtringency, but by its ſtubbornneſs and ſtrength defended the part from hurt by blows, fal<g ref="char:EOLhyphen"/>ling, and ſuch other acci<g ref="char:EOLhyphen"/>dents as Children are liable to.</p>
+               <p>During the Cure, be<g ref="char:EOLhyphen"/>ſides the frequent uſe of Clyſters, we purged him four times, beginning after five Weeks; at which time we made him a Cephalick Electuary to take twice, or oftener in a day, the quan<g ref="char:EOLhyphen"/>tity of a Nutmeg. About the time of exfoliation, he
+<pb n="37" facs="tcp:64878:31"/>began to be vexed with a Cough and Catarrh, for it he was purged twice, had ſome pectoral things, <hi>&amp;c.</hi> which removed that acci<g ref="char:EOLhyphen"/>dent: and in the conclu<g ref="char:EOLhyphen"/>ſion we ordered ten or twelve drops of <hi>Elixir Pro<g ref="char:EOLhyphen"/>prietatis Paracelſi,</hi> to be ſome mornings given, in what Vehicle was moſt accepta<g ref="char:EOLhyphen"/>ble to him.</p>
+               <p>This is truly and <hi>bonâ fi<g ref="char:EOLhyphen"/>de</hi> an account of the whole proceſs in this Cure, which while I was writing I reſol<g ref="char:EOLhyphen"/>ved to make as particular in the manner of the ope<g ref="char:EOLhyphen"/>rations, and matter of the curatory method, as I could,
+<pb n="38" facs="tcp:64878:32"/>having always thought it a great defect in many Rela<g ref="char:EOLhyphen"/>tors of Obſervations, that they have not given a Diary of their principal applications, ſucceſſes, va<g ref="char:EOLhyphen"/>riety of ſymptoms, <hi>&amp;c.</hi> moſt ſeeming rather to re<g ref="char:EOLhyphen"/>port that they cured ſuch a Diſeaſe or accident, than how they did it.</p>
+               <p>And that my Reader or Adverſary may not ſurmiſe or object, That at the di<g ref="char:EOLhyphen"/>ſtance of time, and inter<g ref="char:EOLhyphen"/>mixture of other avocati<g ref="char:EOLhyphen"/>ons, ſome circumſtances may be leſs certain to me, it being improbable I ſhould remember ſo parti<g ref="char:EOLhyphen"/>cularly
+<pb n="39" facs="tcp:64878:32"/>as I ſeem to relate; I do aſſure them (and will at any time demonſtrate it) that I keep a Diary of all accidents occurring in my Profeſſion and Practice, though very much inferior and leſs conſiderable than thoſe I have here recount<g ref="char:EOLhyphen"/>ed; from whence I ſuppli<g ref="char:EOLhyphen"/>ed the defects of my me<g ref="char:EOLhyphen"/>mory in drawing up this Hiſtory.</p>
+               <p>And as a proof <hi>à poſteri<g ref="char:EOLhyphen"/>ori,</hi> of the firmneſs of his head ſince we left him, it's well known he hath reco<g ref="char:EOLhyphen"/>vered once of a malignant Fever, and another time of the Meaſles; in the for<g ref="char:EOLhyphen"/>mer
+<pb n="40" facs="tcp:64878:33"/>he did indeed com<g ref="char:EOLhyphen"/>plain much of his head paining him; but that I i<g ref="char:EOLhyphen"/>magine to be nothing, or little more than he would have done, had that acci<g ref="char:EOLhyphen"/>dent never betided him: At this day is he alive, brisk and ſound, hath no obvious fign of any infir<g ref="char:EOLhyphen"/>mity but a wan face, and that not conſiderable, re<g ref="char:EOLhyphen"/>ſulting rather from his con<g ref="char:EOLhyphen"/>ſtitution than ſickneſs, be<g ref="char:EOLhyphen"/>ing no other than he had before he was hurt.</p>
+               <p>Thus have I finſhed the Hiſtory of fact and ſuc<g ref="char:EOLhyphen"/>ceſs: I muſt beg my Rea<g ref="char:EOLhyphen"/>ders permiſſion to make a
+<pb n="41" facs="tcp:64878:33"/>few Remarks thereon; they are ſuch as I hope may compenſate for the time and trouble of a pe<g ref="char:EOLhyphen"/>ruſal. Firſt, therefore, we will look back and conſi<g ref="char:EOLhyphen"/>der the greatneſs and plu<g ref="char:EOLhyphen"/>rality of the wounds and fractures, the loſs of ſo large a piece of the Skull, the wounds of the <hi>Dura</hi> and <hi>Pia Mater,</hi> and of the Brain, together with the loſs of part of it; the cold<g ref="char:EOLhyphen"/>neſs of the Seaſon (a moſt injurious time for ſuch an accident) the hereditary in<g ref="char:EOLhyphen"/>firmneſs and age of the Patient, and confeſs it's not uſual to have ſuch an accu<g ref="char:EOLhyphen"/>mulation
+<pb n="42" facs="tcp:64878:34"/>of very ill acci<g ref="char:EOLhyphen"/>dents and circumſtances, to be not only accompanied with ſuch ſlight ſymptoms, but recovered ſo fortunate<g ref="char:EOLhyphen"/>ly. This is a ſuggeſtion which I make not vain<g ref="char:EOLhyphen"/>gloriouſly, but to docu<g ref="char:EOLhyphen"/>ment and encourage young Practitioners, that they be reſolute, not de<g ref="char:EOLhyphen"/>ſpairing of ſucceſs in caſes that ſeem the moſt difficult. To give a favourable Prognoſtick where there is apparent danger, is raſh<g ref="char:EOLhyphen"/>neſs, and frequently diſcre<g ref="char:EOLhyphen"/>dits the Artiſt. I would not put courage into his tongue by this Inference,
+<pb n="43" facs="tcp:64878:34"/>but hope and vigorous vi<g ref="char:EOLhyphen"/>gilance into his heart and hand; and how terrible and diſcouraging ſoever the Caſe be, to proceed ſtrenuouſly, as if there were the greateſt probabi<g ref="char:EOLhyphen"/>lity of ſucceſs. No miſ<g ref="char:EOLhyphen"/>chief (only a little diſap<g ref="char:EOLhyphen"/>pointment) can be the worſt effect of a couragi<g ref="char:EOLhyphen"/>ous endeavour; but many and great evils have been the reſult of deſpair, and great and ſtupendous the ſucceſs and benefit that have attended a couragious and reſolute Undertaker. <hi>De<g ref="char:EOLhyphen"/>ſpair!</hi> the great Enemy to all Atchievements, and <hi>re<g ref="char:EOLhyphen"/>mora</hi>
+                  <pb n="44" facs="tcp:64878:35"/>to improvement of all good things; <hi>Courage!</hi> the great Diſcoverer and <hi>Colum<g ref="char:EOLhyphen"/>bus</hi> of Art, a temper to which the moſt noble ac<g ref="char:EOLhyphen"/>quiſitions, not in War only, but in uſeful knowledge, are owing. Neglect is the conſequence of deſpair, for men do but by halves what they think is impoſſible to be finiſh'd; whence they too truly verifie their own Prognoſtick:<note place="margin">G. Fallop. cap. 45. lib. expoſ. Hip. de Vulner. Sennertus p.m. lib. 1. part. 1. c. 23.</note> whereas hope and courage, with a diligent uſe of proper re<g ref="char:EOLhyphen"/>medies might have ſaved the Patient.<note place="margin">Hildanus Obſ. cent. 1. obſ. 13. Exempl. 4. cent. 4. obſ. 2.</note> And this I find to be the advice many Authors infer from the
+<pb n="45" facs="tcp:64878:35"/>Cure of wounds in the Brain.—<hi>Itaque nunquam de<g ref="char:EOLhyphen"/>relinquatis aegros, ſemper ſpre<g ref="char:EOLhyphen"/>rate ſalutem.</hi>
+               </p>
+               <p>Nothing hath been more the Parent of deſpair, or be<g ref="char:EOLhyphen"/>num'd mens courage and endeavours, ſo much as the Maxims and Progno<g ref="char:EOLhyphen"/>ſticks of former, eſpecial<g ref="char:EOLhyphen"/>ly the firſt Writers, if ſuch as are delivered down to us with great Name and Character; for then they ſeem confirmed by univer<g ref="char:EOLhyphen"/>ſal conſent and conſtant Tradition. <hi>Macrobius, Lan<g ref="char:EOLhyphen"/>gius</hi> and others ſpeak idola<g ref="char:EOLhyphen"/>trouſly of <hi>Hippocrates;</hi> and a more modern Phyſician
+<pb n="46" facs="tcp:64878:36"/>little leſs, calling his Apho<g ref="char:EOLhyphen"/>riſms and Predictions,<note place="margin">Heurnius Com. in Aphor. Hippocrat.</note> Books full of Divine Ora<g ref="char:EOLhyphen"/>cles. Indeed among all the firſt Phyſicians, <hi>Hippo<g ref="char:EOLhyphen"/>crates</hi> and <hi>Galen</hi> are of the biggeſt Name, and moſt continued and deſerved re<g ref="char:EOLhyphen"/>pute; the former ſo happy to eſcape the cenſure, and have the praiſe of him that ranted all that were be<g ref="char:EOLhyphen"/>fore this Age,<note place="margin">Helmont.</note> and ſpared very few in it: and yet it cannot be denied that ſome of his Aphoriſms are not only contradicted by daily experience, but confeſſed fallible by his many Expo<g ref="char:EOLhyphen"/>ſitors and Commentators,
+<pb n="47" facs="tcp:64878:36"/>although ſuch as extrava<g ref="char:EOLhyphen"/>gantly admired him. I will inſtance but in two or three, on one of which I ſhall remark at large, as be<g ref="char:EOLhyphen"/>ing that which ſeemeth to have been the Parent of this Principle I am labour<g ref="char:EOLhyphen"/>ing to deſtroy. Indeed the high veneration I have for ſo great a name as his, to whom the Art of heal<g ref="char:EOLhyphen"/>ing is ſo much a Debtor, renders it uneaſie to me to object againſt any thing he hath delivered, <hi>Sed magis a<g ref="char:EOLhyphen"/>mica veritas.</hi>
+               </p>
+               <p>Sect. 5. Aphor. 31. <hi>Mu<g ref="char:EOLhyphen"/>lier utero gerens, ſanguine miſ<g ref="char:EOLhyphen"/>ſo ex vena, abortet</hi>—</p>
+               <pb n="48" facs="tcp:64878:37"/>
+               <p>Sect. 6. Aphor. 58. <hi>Si omentum excidat, neceſſario putreſcit.</hi>
+               </p>
+               <p>Sect. 6. Aphor. 18.<note place="margin">
+                     <hi>He that would ſee more of theſe let him read</hi> San<g ref="char:EOLhyphen"/>ctus San<g ref="char:EOLhyphen"/>ctorius, Methodi vitando<g ref="char:EOLhyphen"/>rum erro<g ref="char:EOLhyphen"/>rum omnium qui in arte medica contingunt; <hi>eſpeci<g ref="char:EOLhyphen"/>ally</hi> lib. 1. cap. 31.</note> 
+                  <hi>Ve<g ref="char:EOLhyphen"/>ſica deſciſſa, aut cerebro, aut corde, aut ſepto tranſverſo, aut aliquo ex tenuioribus inteſtinis, aut ventriculo, aut jecore, le<g ref="char:EOLhyphen"/>thale eſt.</hi>
+               </p>
+               <p>Divers have been the ways his many Commenta<g ref="char:EOLhyphen"/>tors have taken to expound this Aphoriſm, and inter<g ref="char:EOLhyphen"/>pret the word <hi>lethale:</hi> By it ſome would have us un<g ref="char:EOLhyphen"/>derſtand he meant that they are for the moſt part dead<g ref="char:EOLhyphen"/>ly; others that there is
+<pb n="49" facs="tcp:64878:37"/>danger of death; and ſome, that he means only large or very deep wounds of thoſe pares, <hi>vide</hi> the Com<g ref="char:EOLhyphen"/>ments of <hi>Galen, Jacotius, Braſavolus, Chr. à Vega, Fal<g ref="char:EOLhyphen"/>lopius, Foreſtus, Heurnius, Fuchſius,</hi> &amp;c. I ſhall note in general only, That there are numerous inſtan<g ref="char:EOLhyphen"/>ces againſt each part of this Aphoriſm, produced by theſe Commentators, by <hi>Tagaultius,</hi> the German Vertuoſi, <hi>&amp;c.</hi> and betake my ſelf to that eſpecially therein which ſeems to au<g ref="char:EOLhyphen"/>thorize the Objections of my Adverſary againſt what I have here delivered;
+<pb n="50" facs="tcp:64878:38"/>which is, That <hi>Wounds of the Brain are abſolutely mortal and incurable:</hi> An opinion that ſo far obtained among even the remoteſt Succeſ<g ref="char:EOLhyphen"/>ſors of <hi>Hippocrates,</hi> as to make ſome of them write after his Copy, as <hi>J. de Vi<g ref="char:EOLhyphen"/>go, Mr. Woodall, P. Lowe, Paracelſus,</hi> and <hi>Jaques Guil<g ref="char:EOLhyphen"/>liameau,</hi> (though the laſt, after he had ſo progno<g ref="char:EOLhyphen"/>ſticated, (without reſerve) in his Chapter of Wounds of the head, concludes his Apology, at the latter end of his whole Work, with a prodigious Story of one cured by himſelf) and o<g ref="char:EOLhyphen"/>thers I fear, to rely there<g ref="char:EOLhyphen"/>on
+<pb n="51" facs="tcp:64878:38"/>ſo far, as to deſpond, and become negligent, and conſequently ſuffer to be loſt the life of that Patient, who by a man of other perſwaſions might have been preſerved. Such is the miſchief of implicite credence, and receiving for Oracles the <hi>Dixits</hi> of men, who (we all con<g ref="char:EOLhyphen"/>feſs) dyed before the moſt conſiderable and advanta<g ref="char:EOLhyphen"/>gious things in Anatomy, Medicine and Chirurgery were born. The folly and vanity of ſo doing in this Particular will be abun<g ref="char:EOLhyphen"/>dandy manifeſt, when I come to reckon the Au<g ref="char:EOLhyphen"/>thors
+<pb n="52" facs="tcp:64878:39"/>and Obſervations that are oppoſite to it.</p>
+               <p>But before I proceed to that, I muſt make a neceſſa<g ref="char:EOLhyphen"/>ry Note or two more, for the benefit of my young Brother, and obſerve to him the great advantage of ſufficient breathing in fra<g ref="char:EOLhyphen"/>ctures of the Skull, or hurt of the parts within it; for to no other but ſuch a liberal and copious vent, for the diſcharge of mat<g ref="char:EOLhyphen"/>ter, <hi>&amp;c.</hi> can be attributed the wonderful lenity or re<g ref="char:EOLhyphen"/>miſneſs of ſymptoms in this Child: It's uſual for want of it to have vehe<g ref="char:EOLhyphen"/>ment accidents, Sopor,
+<pb n="53" facs="tcp:64878:39"/>Vomitings, Convulſions, Fevers, intolerable head<g ref="char:EOLhyphen"/>ache, haemorrhagies at the Noſe, Eyes, Ears, <hi>&amp;c.</hi> and all to vaniſh upon diſcharge given by a Trepan.</p>
+               <p>By this Obſervation more particularly I have ſeen the falſhood or mi<g ref="char:EOLhyphen"/>ſtake of that Objection which <hi>H. Rhoonbuyſe,</hi>
+                  <note place="margin">Obſerv. Med. Chir. part. 2. Obſ. 1.</note> and Monſieur <hi>de Foy</hi> urge a<g ref="char:EOLhyphen"/>gainſt the uſe of a <hi>Trepan, viz.</hi> That the <hi>Dura Mater</hi> adheres firmly to the inſide of the <hi>Cranium,</hi> and that it cannot be ſeparated there<g ref="char:EOLhyphen"/>from without laceration; nay it ſticks, ſaith Mon<g ref="char:EOLhyphen"/>ſieur <hi>de Foy,</hi> ſo faſt as Paper
+<pb n="54" facs="tcp:64878:40"/>paſted to a Board. And hence they take occaſion to render not only Tre<g ref="char:EOLhyphen"/>panning and all Perforati<g ref="char:EOLhyphen"/>ons impertinent and uſe<g ref="char:EOLhyphen"/>leſs, but make an abſurdi<g ref="char:EOLhyphen"/>ty of what's a moſt com<g ref="char:EOLhyphen"/>mon Obſervation, <hi>viz.</hi> (which I juſt now noted) that large breathing or diſ<g ref="char:EOLhyphen"/>charge prevents the ſevere ſymptoms of <hi>Convulſions, Vomiting, Sopor,</hi> &amp;c. by venting off the matter: For if the <hi>Dura Mater</hi> ſo cloſely and firmly adhere to the Skull, and therefore trepanning be dangerous and uſeleſs; upon the ſame reaſon and principle muſt
+<pb n="55" facs="tcp:64878:40"/>all diſcharges be of no be<g ref="char:EOLhyphen"/>nefit, yea they are impoſſi<g ref="char:EOLhyphen"/>ble; ſo that they deny not only what is commonly inferred, That the diſ<g ref="char:EOLhyphen"/>charge prevents the deadly ſymptoms; but tacitely diſ<g ref="char:EOLhyphen"/>own the poſſibility of any ſuch efflux: ſince it the <hi>Du<g ref="char:EOLhyphen"/>ra Mater</hi> and the Skull be ſo united, there can be no room for matter there to lodge. But foraſmuch it's frequently ſeen that large quantities of bloud and matter ure to gleet out of cracks and perforations of the Skull; we may con<g ref="char:EOLhyphen"/>clude them miſtaken till they tell us from whence
+<pb n="56" facs="tcp:64878:41"/>that ſhould come, and where it lay, except there be a ſpace between the <hi>Du<g ref="char:EOLhyphen"/>ra Mater</hi> and <hi>Cranium.</hi> I have, upon opening the Skull of one dead by a fall or blow, ſeen almoſt all the <hi>Dura Mater</hi> covered with coagulate bloud, and in ſome places near half an inch thick; but more re<g ref="char:EOLhyphen"/>markably doth the Hiſtory of this Child confute the pretended obſervation of theſe two men (although they ſay <hi>Sylvius de Boe</hi> and <hi>Blaſius</hi> were Eye-witneſ<g ref="char:EOLhyphen"/>ſes) for here was many days a ſenſible evacuation from under the Skull, of
+<pb n="57" facs="tcp:64878:41"/>much matter, at firſt ſerous, and ſanguinary, but after<g ref="char:EOLhyphen"/>ward concocted and lau<g ref="char:EOLhyphen"/>dable. If it be alledged, that this was matter de<g ref="char:EOLhyphen"/>ſcending from the wound of the <hi>Calvaria,</hi> it doth not anſwer me; for come it whence it will, it ſuppo<g ref="char:EOLhyphen"/>ſeth that there was room to contain it under the Skull, and conſequently that there was no ſuch ad<g ref="char:EOLhyphen"/>heſion as they pretend. If it be further urged, That upon ſuch accidents as fra<g ref="char:EOLhyphen"/>ctures of the Skull, Con<g ref="char:EOLhyphen"/>cuſſions of the Brain, <hi>&amp;c.</hi> the extravaſate bloud, ſe<g ref="char:EOLhyphen"/>parates the <hi>Dura Mater,</hi> as
+<pb n="58" facs="tcp:64878:42"/>Serum doth the <hi>Cuticula</hi> in application of <hi>Cantharides,</hi> or ſcalding; then their in<g ref="char:EOLhyphen"/>ference againſt Trepan<g ref="char:EOLhyphen"/>ning is out of doors, and it remains as ſafe and needful as, if their exploration had never been made. I muſt profeſs that I never found any truth in their diſcove<g ref="char:EOLhyphen"/>ry by divers diſſections, tre<g ref="char:EOLhyphen"/>pannings, <hi>&amp;c.</hi> nor in this Child, but that the large piece of Skull I extracted had not the leaſt adheſion to the <hi>Dura Mater;</hi> certain<g ref="char:EOLhyphen"/>ly had it been ſo common, or, as they ſay, conſtant an Obſervation, it's proba<g ref="char:EOLhyphen"/>ble in one ſo young, where
+<pb n="59" facs="tcp:64878:42"/>parts are uſually leſs diſtinct, and ſeparation imper<g ref="char:EOLhyphen"/>fect, it muſt have been found.</p>
+               <p>The <hi>Summary</hi> of all that hath been ſaid in the Re<g ref="char:EOLhyphen"/>marks on this Caſe are redu<g ref="char:EOLhyphen"/>cible to theſe five <hi>Conſecta<g ref="char:EOLhyphen"/>ries,</hi> Firſt, <hi>That improbable and diſcouraging accidents have been cured, and that therefore we never ought to deſpair or eſteem any thing abſolutely mortal;</hi> Secondly, <hi>That we may be deceived by relying on the Axi<g ref="char:EOLhyphen"/>oms, Aphoriſms and Progno<g ref="char:EOLhyphen"/>ſticks of the Ancients, though of the moſt conſtant and uni<g ref="char:EOLhyphen"/>verſal reception;</hi> Thirdly, <hi>That wounds of the Brain
+<pb n="60" facs="tcp:64878:43"/>in particular, are curable,</hi> Fourthly, <hi>That ample vent thorough the Skull in fractures thereof prevents the direful ſymptoms, and the want of it, occaſions them; and</hi> laſtly, <hi>That the</hi> Dura Mater <hi>doth not always adhere to the Skull, but trepanning is ſafe and neceſſa<g ref="char:EOLhyphen"/>ry, and, Monſieur</hi> de Foy <hi>and</hi> Rhoonhuyſe <hi>in an er<g ref="char:EOLhyphen"/>rour.</hi>
+               </p>
+               <p>My next Work is to pro<g ref="char:EOLhyphen"/>duce my Vouchers, the Au<g ref="char:EOLhyphen"/>thours that affirm wounds of the Brain curable. Some from their opinion, confirmed by Hiſtory; but moſt of them from their experience: the number of
+<pb n="61" facs="tcp:64878:43"/>the Evidencesare ſixty four, that of the Experiments a hundred. I hope it will not ſeem ſuperfluous and redundant to produce ſo many, ſince in matters of great diſpute, and where an Adverſary is very cofi<g ref="char:EOLhyphen"/>dent, it's not only uſu<g ref="char:EOLhyphen"/>al, but a great credit to the Cauſe to have a multitude of Witneſſes. It's no leſs neceſſary to produce all thoſe, and more, if I had them, to ſhew the won<g ref="char:EOLhyphen"/>derful ignorance of my Adverſary, in not knowing any of them; or his wicked<g ref="char:EOLhyphen"/>neſs in diſſembling that knowledge (ſo common
+<pb n="62" facs="tcp:64878:44"/>and familiar to men of reading, in his Profeſſion) and that only becauſe he might have the better pre<g ref="char:EOLhyphen"/>tence and colour to a<g ref="char:EOLhyphen"/>buſe.</p>
+            </div>
+            <div n="citations" type="collection">
+               <pb n="63" facs="tcp:64878:44"/>
+               <head>A COLLECTION OF THE Opinions of ſundry good Authors con<g ref="char:EOLhyphen"/>cerning Wounds of the Brain, wherein no leſs than ſixty affirm them cura<g ref="char:EOLhyphen"/>ble, and confirm it by above an hun<g ref="char:EOLhyphen"/>dred Obſervations.</head>
+               <p>GAlen <hi>in Comment. ad Aphor.</hi> 18. <hi>lib.</hi> 6. Hippocratis— <hi>Cerebrum
+<pb n="64" facs="tcp:64878:45"/>vulneratum, ſaepius ſanatum vidimus, &amp; ſemel, &amp; bis in Smyrna Ioniae, vivente adhuc Praeeeptore Pelope, &amp; erat Vulnus ſatis effatu dignum—</hi>
+               </p>
+               <p>
+                  <hi>Idem,</hi> de uſu partium, cap. <hi>10.</hi> lib. <hi>8.</hi>— Admirabile ſpe<g ref="char:EOLhyphen"/>ctaculum, atque incredibile, quod Smyrnae in Ionia accidit, aliquando ſumus conſpicati, A<g ref="char:EOLhyphen"/>doleſcentulum Vulnere in alte<g ref="char:EOLhyphen"/>rum anteriorum Ventriculorum accepto, ſuperstitem fuiſſe Dei (ut pleriſque videbatur) volun<g ref="char:EOLhyphen"/>tate.</p>
+               <p>
+                  <hi>Nicolas Nicolaus Flor.</hi> Serm. 7. Tract. <hi>4.</hi> cap. <hi>91. writing of one wounded in the head by a Sword, ſaith,</hi> Profundato vulnere, uſ<g ref="char:EOLhyphen"/>que
+<pb n="65" facs="tcp:64878:45"/>ad ſubſtantiam Cerebri, ſu<g ref="char:EOLhyphen"/>per verticem in anteriore parte Frontis, uſque ad medium Capi<g ref="char:EOLhyphen"/>tis, qui ſequenti die poſt vulne<g ref="char:EOLhyphen"/>rationem, incurrit paralyſim u<g ref="char:EOLhyphen"/>niverſalem, —rectus evaſit.</p>
+               <p>
+                  <hi>Jacobus Carpus</hi> Tract. de fract. Cranii— Vidi ad hunc uſque diem, ſex homines, à qui<g ref="char:EOLhyphen"/>bus notabilis quantitas medul<g ref="char:EOLhyphen"/>lae cerebri exivit, &amp; ſanati ſunt, —&amp; habui fideles &amp; peritos phyſicos in ſocietate, à quibus in prima vet ſecunda vi<g ref="char:EOLhyphen"/>ſitatione aegro, extraxi à labiis vulnerum magnam cerebri par<g ref="char:EOLhyphen"/>tem, quae ex ſe exierat crani<g ref="char:EOLhyphen"/>um; <hi>he proceeds to give very particular accounts of each, and brings Perſons of
+<pb n="66" facs="tcp:64878:46"/>great Name, one of them being Nephew of the Car<g ref="char:EOLhyphen"/>dinal of</hi> Hiſtrigon: Et ad iſtum habui multos Nobiliſſimos Teſtes.</p>
+               <p>
+                  <hi>M. Braſavolus</hi> Comment. ad Aphor. <hi>18.</hi> lib. <hi>6.</hi> Hippoc. Nos in Cerebro vulner at is mira vidimus: in uno, qui Magnifi<g ref="char:EOLhyphen"/>cis <hi>Valengis</hi> inſerviebat, tanta ſubſtantiae cerebri quan<g ref="char:EOLhyphen"/>titas exivit, quantum eſt par<g ref="char:EOLhyphen"/>vum galliae ovum, tamen eva<g ref="char:EOLhyphen"/>ſit: — Alium vidimus ex Cor<g ref="char:EOLhyphen"/>ſica mili<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em, cui ſere dimidium Capitis, cum ſua cerebri portio<g ref="char:EOLhyphen"/>ne, ablatum eſt, qui convaluit.</p>
+               <p>
+                  <hi>N. Maſſa</hi> Tom. <hi>2.</hi> Lib. <hi>1.</hi> Epiſt. <hi>11.</hi>—Ego teſtor De<g ref="char:EOLhyphen"/>um, &amp; quamplurimi homines
+<pb n="67" facs="tcp:64878:46"/>qui adhuc vivunt, teſtes ſunt, me plurimos vulneratos in capi<g ref="char:EOLhyphen"/>te, cum inciſione oſſis pannicu<g ref="char:EOLhyphen"/>lorum &amp; inſignis cerebri ſub<g ref="char:EOLhyphen"/>ſtantiae, ſanaſſe arte &amp; reme<g ref="char:EOLhyphen"/>diis medicinalibus —laceratio in ſubſtantia cerebri, cum de<g ref="char:EOLhyphen"/>perditione non modicae cerebri quantitatis.</p>
+               <p>Inter quos vivit adhuc Clar. <hi>P. Raymundus,</hi> Vir Nobilis Venetus— <hi>who, he ſaith, was wounded in the back<g ref="char:EOLhyphen"/>part of his head with a Sword, whereby the Me<g ref="char:EOLhyphen"/>ninges and ſubſtance of the Brain were hurt; the wound being two fingers long, and as deep as three fingers are thick.</hi> —Sani<g ref="char:EOLhyphen"/>tati
+<pb n="68" facs="tcp:64878:47"/>reſtitutus eſt. Teſtes ſunt imprimis non pauci hujus Ci<g ref="char:EOLhyphen"/>vitatis Medici, ac etiam tota &amp; Nobilium, &amp; Civium Multitu<g ref="char:EOLhyphen"/>do.</p>
+               <p>Sanitati etiam mea opera re<g ref="char:EOLhyphen"/>ſtitutus eſt <hi>Marcus Goro, who was wounded on the Crown by a Halbert, which drove ſeveral pieces of the Skull through the Menin<g ref="char:EOLhyphen"/>ges into the Brain. We lay dead till he drew them out, and then like one newly a<g ref="char:EOLhyphen"/>wake cryed out,</hi> Ad Dei lau<g ref="char:EOLhyphen"/>dem, ſum ſanus; <hi>for witneſſes hereof, he brings the like perſons as in the Caſe be<g ref="char:EOLhyphen"/>fore:</hi> Medicorum omnium, Nobilium Senatorum.</p>
+               <pb n="69" facs="tcp:64878:47"/>
+               <p>
+                  <hi>Alphonſus</hi> quoque <hi>Bono<g ref="char:EOLhyphen"/>nienſis,</hi> qui percuſſus fuit cum enſe, in parte ſiniſtra capitis, inter ſuturam ſagittalem &amp; men<g ref="char:EOLhyphen"/>doſam, cum inciſione non ſolum oſſis &amp; Membranarum, ſed etiam inſignis quantitatis ſub<g ref="char:EOLhyphen"/>stantiae Cerebri: etenim vul<g ref="char:EOLhyphen"/>nus erat ad longitudinem unius digiti cum dimidio, ita ut ma<g ref="char:EOLhyphen"/>nifeſtiſſime ſubſtantia cerebri inciſa inſpiciebatur, &amp; digito tangebatur; cui ſupervenerunt accidentia omnia mala mortem &amp; interitum atteſtantia, —Qui tandem Domino auxiliante eva<g ref="char:EOLhyphen"/>ſit.—</p>
+               <p>
+                  <hi>He alſo cured</hi> Theod. Bua <hi>a Greek, who not only loſt his left hand, but received
+<pb n="70" facs="tcp:64878:48"/>four great wounds on his head with a Sword; they were horrible to ſee, the Brain was conſiderably wounded, and terrible ac<g ref="char:EOLhyphen"/>cidents follow'd, which he removed, and cured the Patient,</hi> non ſine maximo ſtu<g ref="char:EOLhyphen"/>pore totius Civitatis.</p>
+               <p>
+                  <hi>He alſo cured a young man whoſe Brain was wounded by a Blow, made with a Staff by a ſtrong man.</hi>
+               </p>
+               <p>
+                  <hi>He cured a Servant of</hi> D. Paſch. Myſhochiae, <hi>whoſe Brain was wounded be<g ref="char:EOLhyphen"/>tween the</hi> Coronal Suture <hi>and the Forehead,</hi> —Poſſem quamplurimos alios mirabiles ca<g ref="char:EOLhyphen"/>ſus
+<pb n="71" facs="tcp:64878:48"/>cum inciſione, &amp; lacerati<g ref="char:EOLhyphen"/>one ſubſtantiae cerebri ſanatos enumerare, —dicant antiqui &amp; moderni Medici, quicquid ſibi placuerit.</p>
+               <p>
+                  <hi>Chriſtopherus à Vega</hi> Comment. ad Aphor. <hi>18.</hi> lib. <hi>6.</hi> Hippoc. —Multa vidimus ſa<g ref="char:EOLhyphen"/>nata, quae ad cerebri ſubſtanti<g ref="char:EOLhyphen"/>am perveniebant, &amp; amiſſa cerebri ipſius portione.</p>
+               <p>
+                  <hi>Fr. Arceus</hi> lib. <hi>1.</hi> cap. <hi>6.</hi> de Cur. Vuln. —Nos Dei auxi<g ref="char:EOLhyphen"/>lio, multos è maximis &amp; gra<g ref="char:EOLhyphen"/>viſſimis vulneribus liberatos teſtari poſſumus; inter quos bactenus novem jam ſunt, qui<g ref="char:EOLhyphen"/>bus non exigua cerebri pars pe<g ref="char:EOLhyphen"/>rierat. —<hi>One wounded by a Sword, whence iſſued
+<pb n="72" facs="tcp:64878:49"/>as much Brain as three Wheat-Corns; ſecondly, A Boy of ten years old, wounded in the forehead by a Mule, the edge of whoſe Iron-Shoe ſtuck in the Bone, and loſt as much Brain as the quantity of a Lentil; the fourth, A man who had the hair, fleſh and skull beaten through the Meninges into the Brain, by a blunt Dart</hi> [Telo obtuſo;] <hi>a fifth, Servant to the Mar<g ref="char:EOLhyphen"/>queſs</hi> de Falcis, <hi>wounded after the ſame manner, by a blow of a Candleſtick; a ſixth wounded by the fall of a Stone, a Cubit long and broad, weighing
+<pb n="73" facs="tcp:64878:49"/>twenty four pounds, on the Sagittal Suture.</hi>
+               </p>
+               <p>
+                  <hi>Corn. Gemma</hi> lib. <hi>1.</hi> cap. <hi>6.</hi> Coſm. Sic in vulneribus Cerebri, fragmento Calvarivae ad mollem uſque Meningem, per duram prorſus adacto, nonnul<g ref="char:EOLhyphen"/>loque ipſius ſubſtantiae apparen<g ref="char:EOLhyphen"/>te effluvio, nuper è populo qui<g ref="char:EOLhyphen"/>dam, Nobis manum admoventi<g ref="char:EOLhyphen"/>bus eſt reſtitutus.</p>
+               <p>
+                  <hi>J. Andr. à Cruce</hi> lib. <hi>1.</hi> tr. <hi>2.</hi> cap. <hi>14.</hi> Chirurgiae— Hoc anno—ac alibi dum juni<g ref="char:EOLhyphen"/>ores eſſemus, vulnera Meninga<g ref="char:EOLhyphen"/>rum &amp; cerebri ſanavimus, &amp; ſanata vidimus, nec ſumus de<g ref="char:EOLhyphen"/>cepti, —<hi>he then names ma<g ref="char:EOLhyphen"/>ny Witneſſes</hi>— Et paulo poſt Feltriae nos fuimus in curatione
+<pb n="74" facs="tcp:64878:50"/>cujuſdam Adoleſcentulae, quae cum à cuſpide falcis, vulnus cum cerebri laeſione paſſa fuerit, ex quo terebrata Calvaria, no<g ref="char:EOLhyphen"/>tabilis portio ipſius cerebri exi<g ref="char:EOLhyphen"/>viſſe competum eſt, tranſacto quarto menſe ſanitati fuit reſti<g ref="char:EOLhyphen"/>tuta—</p>
+               <p>
+                  <hi>Horatius Augenius</hi> Tom. <hi>1.</hi> lib. <hi>9.</hi> Epiſt. <hi>2.</hi> Vidimus nos aliquando totam ſubſtantiam ce<g ref="char:EOLhyphen"/>rebri vulneratam, ventriculos diſſectos, aliquam etiam por<g ref="char:EOLhyphen"/>tionem cerebri, cum vulnere jam primum illato, foras pro<g ref="char:EOLhyphen"/>fluxiſſe; hominem tamen vulne<g ref="char:EOLhyphen"/>ratum, ſanitati fuiſſe reſtitu<g ref="char:EOLhyphen"/>tum.</p>
+               <p>
+                  <hi>Bartapalea</hi> de fract. Cranii cap. <hi>5.</hi> Et ſemel habui unum,
+<pb n="75" facs="tcp:64878:50"/>Rusticum, cui erat remota pars medullar is cerebri, qui eſt ſa<g ref="char:EOLhyphen"/>natus.</p>
+               <p>
+                  <hi>Theodoricus</hi> lib. <hi>2.</hi> cap. <hi>2.</hi> Chirurgiae. —Quia multos fractis ambabus membranis, &amp; aliquos à quibus non parva quantitas medullae exivit, per<g ref="char:EOLhyphen"/>fectè ſanari vidimus. —Scivi hominem, cui una Cellularum tota evacuata fuit, &amp; tandem repleta carne loco cerebri, per Dom. H. ſanatus est.—</p>
+               <p>
+                  <hi>Volcherus Coiter.</hi> lib. obſ. Chir. &amp; Anatom. <hi>tells us of one be cured in the houſe of</hi> Caeſar Malvaticus <hi>a No<g ref="char:EOLhyphen"/>ble Man in</hi> Bononia, <hi>woun<g ref="char:EOLhyphen"/>ded by a Sword.</hi> Vulnus verò ab oſſe Bregmatis ſiniſtri
+<pb n="76" facs="tcp:64878:51"/>lateris, paulo poſt aures incipit, &amp; tranſverſim per muſculum temporalem, qui totus tranſciſ<g ref="char:EOLhyphen"/>ſus fuit, ad oculi canthum ma<g ref="char:EOLhyphen"/>jorem ſeſe extendebat, atque in cerebri profundum ad ejuſdem lateris ventriculum fere pene<g ref="char:EOLhyphen"/>travit, —<hi>horrible ſymptoms followed, much Brain came out,</hi> —postquam cura<g ref="char:EOLhyphen"/>tus fuit.</p>
+               <p>
+                  <hi>The ſame Author in the ſame place relates at large the Story of a Souldier, who by the ſplitting of a Gun received a wound</hi>— inter ſupercilia pefregit, &amp; ad dimidii digiti longitudinem, in cerebrum oblique dextrorſum ingreſſum eſt. <hi>Some other
+<pb n="77" facs="tcp:64878:51"/>pieces wounded him on the eye, and ſeveral other pla<g ref="char:EOLhyphen"/>ces; ſo as he ſeemed dead: a Barber dreſſed it at firſt, very ill; when by Com<g ref="char:EOLhyphen"/>mand from the Duke of</hi> Bavaria <hi>our Author was called, many very horrid ſymptoms attended, and yet</hi>—ac tandem <hi>13</hi> poſt infli<g ref="char:EOLhyphen"/>ctum vulnus menſe, valetudi<g ref="char:EOLhyphen"/>nem priſtinam recuperavit.</p>
+               <p>
+                  <hi>Guido Cauliacus,</hi>
+                  <note place="margin">
+                     <hi>The ſame qoutation I find in the</hi> Scholia Obſ. 2. l. 6. P. Foreſt. Obſ. Chi<g ref="char:EOLhyphen"/>rurg. A. Parcus l. 10. c. 22.</note> 
+                  <hi>as quoted by</hi> Deſid. Jacotius Comment. ad Aphor. <hi>15.</hi> lib. <hi>1.</hi> ſect. <hi>3</hi> coac. Hippoc. <hi>and</hi> Ta<g ref="char:EOLhyphen"/>gaultius, Inst. Chir. lib. <hi>2.</hi> c. <hi>3.</hi> ſe quendam vidiſſe affirmat, cui ex vulnere parte capitis po<g ref="char:EOLhyphen"/>stica accepto, parva quaedam
+<pb n="78" facs="tcp:64878:52"/>portico ſubstantiae cerebri exie<g ref="char:EOLhyphen"/>rat. —&amp; tamen is à tali. vul<g ref="char:EOLhyphen"/>nere convaluit.</p>
+               <p>
+                  <hi>Er. Valleriolus</hi> lib. <hi>4.</hi> obſ. <hi>10.</hi> lib. <hi>5.</hi> obſ. <hi>9.</hi> lib. <hi>6.</hi> obſ. <hi>4. giveth three Hiſtories of wounds of the Brain that were cured.</hi>
+               </p>
+               <p>
+                  <hi>Cabrolius</hi> obſ. <hi>16.22.</hi> &amp; <hi>24. relates. the Hiſtories of three more cured.</hi>
+               </p>
+               <p>
+                  <hi>Gabr. Fallopius</hi> Expoſ. in lib. Hip. de vuln. c. <hi>45. dire<g ref="char:EOLhyphen"/>cteth to a method of cu<g ref="char:EOLhyphen"/>ring wounds of the Brain, and concludeth,</hi> Ego etiam mirabilia expertus ſum: Vi<g ref="char:EOLhyphen"/>di Zinganum, Januario menſe frigidiſſimo, <hi>partiſanone</hi> per<g ref="char:EOLhyphen"/>cuſſum, &amp; ſectum eſt dimidi<g ref="char:EOLhyphen"/>um
+<pb n="79" facs="tcp:64878:52"/>fere caput, &amp; major quan<g ref="char:EOLhyphen"/>titas Cerebri exiit, quan inclu<g ref="char:EOLhyphen"/>di poſſit in ovo gallinaceo, &amp; ſanatus est. Notate tamen, quod vidi multos in quibus e<g ref="char:EOLhyphen"/>greſſum eſt cerebrum, &amp; ali<g ref="char:EOLhyphen"/>quot remanſere stolidi, aliqui ſupervixere uſque ad <hi>120</hi> dies, aliqui ſanantur, &amp; integri re<g ref="char:EOLhyphen"/>manent.</p>
+               <p>
+                  <hi>The ſame Author</hi> Tom. <hi>2.</hi> cap. <hi>4. de Vuln. in genere, diſputing againſt this com<g ref="char:EOLhyphen"/>mon acceptation of</hi> Hippo<g ref="char:EOLhyphen"/>crates<hi>'s Aphoriſm, faith,</hi> Quinimo &amp; ego ipſe praeter alia multa, exemplum habeo de quo<g ref="char:EOLhyphen"/>dam, cui Ferrariae in maximo frigore, ac etiam Pado glacia<g ref="char:EOLhyphen"/>to reſecta fuit quantitas cere<g ref="char:EOLhyphen"/>bri
+<pb n="80" facs="tcp:64878:53"/>bri ad inſtar Ovi Anſeris; &amp; tamen ſanatus. —Ego probo ex eodem <hi>Hippocrate 2. Prorh.</hi> ubiſe interpretatur, di<g ref="char:EOLhyphen"/>cens, quod partes vulneratae, ſi inferant mortem, oportet ut ſint validiſſime vulneratae—</p>
+               <p>
+                  <hi>Peter Foreſtus</hi> obſ. med. lib. <hi>9.</hi> obſ. <hi>35, 36. and in</hi> obſ. Chir. obſ. <hi>2.</hi> lib. <hi>6. in the</hi> Scholia <hi>on thoſe Obſervati<g ref="char:EOLhyphen"/>ons, he diſcourſeth the vari<g ref="char:EOLhyphen"/>ous interpretations of</hi> Hip<g ref="char:EOLhyphen"/>pocrates, Aphor. <hi>18.</hi> lib. <hi>6. that it denieth not, but that ſuch wounds may be cured; and himſelf gives di<g ref="char:EOLhyphen"/>vers inſtances and authori<g ref="char:EOLhyphen"/>ties to confirm it.</hi>
+               </p>
+               <p>
+                  <hi>Amatus Luſitanus</hi> curat.
+<pb n="81" facs="tcp:64878:53"/>med. obſ. <hi>83.</hi> cent. <hi>2. ſaith, he ſaw a young man at</hi> Rome <hi>wounded in a Duel</hi> —<hi>Per frontem enſem immiſit, ex quo vulnere illico laeſus in terram concidit, &amp; eum humi proſtra<g ref="char:EOLhyphen"/>tum</hi>— <hi>All the Phyſicians and Chirurgeons agreed in opinion that he would dye.</hi> —Tam enim penetrans dirúm<g ref="char:EOLhyphen"/>que vulnus erat, ut cerebri ſub<g ref="char:EOLhyphen"/>ſtantia inciſa, perforatáve cre<g ref="char:EOLhyphen"/>deretur— <hi>He concludes from the unexpected ſucceſs, at which all were amazed, that the Sword went be<g ref="char:EOLhyphen"/>tween the Ventricles of the Brain,</hi> &amp;c.</p>
+               <p>
+                  <hi>H. Fab. ab Aquapenden<g ref="char:EOLhyphen"/>te</hi> lib. de vulner. c. <hi>20.</hi> Pia
+<pb n="82" facs="tcp:64878:54"/>Mater omnino tenuis eſt, &amp; prorſus cerebro adhaeret, ut vul<g ref="char:EOLhyphen"/>nerari nequit ſine cerebri vul<g ref="char:EOLhyphen"/>nere; haec vulnera ferè ſemper ſunt lethalia, interdum tamen aeger reſtituitur, —ac nuper in magno cerebri vulnere feliciſſi<g ref="char:EOLhyphen"/>mo ſucceſſu, hoc ſum uſus: ℞ farinae Milii, &amp;c.</p>
+               <p>
+                  <hi>Zacutus Luſitanus,</hi> Prax. Admir. lib. <hi>1.</hi> obſ. <hi>5.</hi> Decennis Puer percuſſus eſt cum enſe in parte posteriore capitis. Hic paſſus eſt vulnus ſatis magnum, cum inciſione oſſis Velaminum, &amp; deper ditione ſubſtantiae ce<g ref="char:EOLhyphen"/>rebri, nam haec exivit quanti<g ref="char:EOLhyphen"/>tate nucis juglandis; curatus convaluit citra noxam. <hi>See the next Obſervation in the ſame Author.</hi>
+               </p>
+               <pb n="83" facs="tcp:64878:54"/>
+               <p>
+                  <hi>Franſ. Zanchez,</hi> obſ. in opera, pat. <hi>375. relates the Story of one,</hi> cui per Bregma uncus ad cerebri medullam uſ<g ref="char:EOLhyphen"/>que penitus adactus eſt, hujuſ<g ref="char:EOLhyphen"/>que portiuncula foras progredi<g ref="char:EOLhyphen"/>ens exſecta eſt, convaluit.</p>
+               <p>
+                  <hi>J. Veſlingius,</hi> Syntagma Anatom. cap. <hi>14.</hi> Sunt qui magnis cerebri vulneribus ſu<g ref="char:EOLhyphen"/>perſtites feliciter diſcrimen e<g ref="char:EOLhyphen"/>vaſerunt; quamvis portio ejus aliqua ſublata, aut ſuborta pu<g ref="char:EOLhyphen"/>tredine ſeparata fuerit. Vul<g ref="char:EOLhyphen"/>nere item coaleſcente, profun<g ref="char:EOLhyphen"/>dius adacti Globi plumbei reti<g ref="char:EOLhyphen"/>nerentur, ſtylorúmque fragmen<g ref="char:EOLhyphen"/>ta cerebro, &amp; meningibus infi<g ref="char:EOLhyphen"/>xa multis annis inhaererent.</p>
+               <p>
+                  <hi>Glandorp</hi> obſ. <hi>5. in cu<g ref="char:EOLhyphen"/>ring
+<pb n="84" facs="tcp:64878:55"/>a wound of the head, took out as much Brain as would fill an Egg-ſhell.</hi>
+               </p>
+               <p>Jaq. Guilleameu, <hi>although in his Chirurgical Works he be poſitive in this Pro<g ref="char:EOLhyphen"/>gnoſtick,</hi> That wounds of the Brain are mortal; <hi>yet in the end of his Apology, with which he concludes the Book, gives us this Story: At</hi> Chartres <hi>there was the Chamberlain of my Lord the Earl of</hi> Chiverny, <hi>called the</hi> Peitmontois, <hi>who was wounded on his head by a Rapier, whereby the</hi> Pari<g ref="char:EOLhyphen"/>etale <hi>was clean reſcided tho<g ref="char:EOLhyphen"/>rough, yea and clean tho<g ref="char:EOLhyphen"/>rough the</hi> Dura <hi>and</hi> Pia Ma<g ref="char:EOLhyphen"/>ter
+<pb n="85" facs="tcp:64878:55"/>
+                  <hi>alſo, piercing the depth of ones Finger into the ſubſtance of the Brain, whereof in the ſecond dreſ<g ref="char:EOLhyphen"/>ſing there came out as much as the length and bigneſs of the little Finger. He was compleatly cured by me,</hi> Monſieur Le Febure <hi>&amp;</hi> Duret, <hi>the Kings Doctors, and others of the faculty of</hi> Paris, <hi>expert in Chirurge<g ref="char:EOLhyphen"/>ry, divers Chirurgeons of the City of</hi> Chartres <hi>ſtood by;</hi> viz. Monſieur Chereu, Fauven, <hi>&amp;c. the Patient re<g ref="char:EOLhyphen"/>taining no accident or im<g ref="char:EOLhyphen"/>pediment thereof.</hi>
+               </p>
+               <p>
+                  <hi>Ambroſ. Parey</hi> lib. <hi>10.</hi> cap. <hi>22. ſaith, he cured at</hi>
+                  <pb n="86" facs="tcp:64878:56"/>Turenne <hi>a Page of the</hi> Mare<g ref="char:EOLhyphen"/>ſchal Montejan <hi>of a fracture, and as much Brain being loſt as half an Hazel-Nut. And in Chapter 19.</hi> lib. <hi>25. How many have I ſeen who —have had a portion of the Brain cut off by a wound of the head; yet have recover<g ref="char:EOLhyphen"/>ed!</hi>
+               </p>
+               <p>
+                  <hi>Peter Pigreus</hi> de vuln. c. <hi>9.</hi> lib. <hi>4. relates the Cure of a very deſperate wound of the Brain.</hi>
+               </p>
+               <p>
+                  <hi>G. Fab. Hildanus</hi> obſ. Chirurg. cent. <hi>1.</hi> obſ. <hi>13.</hi> Voca<g ref="char:EOLhyphen"/>tus fuit à quodam Ruſtico <hi>J. H.</hi> prove <hi>Hattingen,</hi> ut ipſi<g ref="char:EOLhyphen"/>us inviſerem Sororem, quae vulnus contuſum in dextro oſſe
+<pb n="87" facs="tcp:64878:56"/>Bregmatis, cum fractura Cra<g ref="char:EOLhyphen"/>nii—portiunculam ad inſtar Fa<g ref="char:EOLhyphen"/>bae, ex cerebri ſubſtantia digi<g ref="char:EOLhyphen"/>tis extraxi, —denuo extrabit portiunculam ipſius cerebri, ad Nucis Avellanae magnitudinem, <hi>and more afterwards, and yet</hi>—tamen convaluit pleniſſme—</p>
+               <p>
+                  <hi>The ſame Author</hi> Ex<g ref="char:EOLhyphen"/>emplum <hi>2. in this Obſerv. writes of a Maid, that by a blow of a Stone had a fracture of the Skull,</hi> —Tribus hebdomadibus fermè quotidie portiones aliquas, ex cerebri ſubſtantia abſtuli, natu<g ref="char:EOLhyphen"/>ra ipſa expellente; ita ut pars illa valde concava conſpiceretur. —Sicque pristinam ſanitatem,
+<pb n="88" facs="tcp:64878:57"/>Puella brevi recuperata videba<g ref="char:EOLhyphen"/>tur. <hi>He names many emi<g ref="char:EOLhyphen"/>nent Perſons that ſaw this Cure performed.</hi>
+               </p>
+               <p>
+                  <hi>And in</hi> Exempl. <hi>4. he re<g ref="char:EOLhyphen"/>lates the Cure of one that was wounded by a Sword into the Brain, where the quantity of a Nut was loſt, and many deſperate ſym<g ref="char:EOLhyphen"/>ptoms followed.</hi>
+               </p>
+               <p>
+                  <hi>In</hi> cent. <hi>4.</hi> obſ. <hi>1, 2, 3. he giveth other inſtances, diſ<g ref="char:EOLhyphen"/>puteth upon the Aphoriſm of</hi> Hippocrates, <hi>and encon<g ref="char:EOLhyphen"/>rageth Chirurgeons to be couragious, and think no<g ref="char:EOLhyphen"/>thing impoſſible to Art.</hi>
+               </p>
+               <p>
+                  <hi>D. Sennertus</hi> p. m. lib. <hi>1.</hi> part. <hi>1.</hi> cap. <hi>23.</hi> —Dum
+<pb n="89" facs="tcp:64878:57"/>haec ſcribo, offertur mihi &amp; chi<g ref="char:EOLhyphen"/>rurgo, Faber Lignarius curan<g ref="char:EOLhyphen"/>dus, qui in oſſe ſiniſtro; ad Su<g ref="char:EOLhyphen"/>turam Coronalem, ſecuris ex al<g ref="char:EOLhyphen"/>to projectae acie, vulnus pollicis ferè longitudine in cerebrum pe<g ref="char:EOLhyphen"/>netrans, acceperat; ita ut par<g ref="char:EOLhyphen"/>ticula cranii effracta, ſtatim eximi poſſet, &amp; cerebri por<g ref="char:EOLhyphen"/>tio Nucis Juglandis fere mag<g ref="char:EOLhyphen"/>nitudine propenderet: convalu<g ref="char:EOLhyphen"/>it tamen, cerebri illâ portione extrà propendente ſenſim abſce<g ref="char:EOLhyphen"/>dente. Et quod mirum eſt, toto morbi decurſu nec de dolore capi<g ref="char:EOLhyphen"/>tis, nec de ullo ſymptomate con<g ref="char:EOLhyphen"/>queſtus est.</p>
+               <p>
+                  <hi>A. Laurentius</hi> Hiſtor. A<g ref="char:EOLhyphen"/>nat. Corporis hum. lib. <hi>10.</hi> cap. <hi>6. diſcourſing of the Ven<g ref="char:EOLhyphen"/>tricles
+<pb n="90" facs="tcp:64878:58"/>of the Brain ſaith,</hi> Et gemini, ne altero eorum affe<g ref="char:EOLhyphen"/>cto, alterius functio animali tam neceſſaria intercipiatur; laeſo e<g ref="char:EOLhyphen"/>nim alterutro, levius conting it perculum, quam ſi uter que af<g ref="char:EOLhyphen"/>ficiatur: teſtis eſt ille Juvenis qui vulnere in dextro ſinu acce<g ref="char:EOLhyphen"/>pto, evaſit— <hi>I find two A<g ref="char:EOLhyphen"/>natomiſts more ſuggeſt the ſame thing,</hi> viz.</p>
+               <p>
+                  <hi>Caſp. Bauhinus</hi> Anat. lib. <hi>3.</hi> cap. <hi>3.</hi>
+               </p>
+               <p>
+                  <hi>Dr. H. Crook</hi> Microcoſm. lib. <hi>7. cap. 11.</hi>
+               </p>
+               <p>
+                  <hi>J. Cook</hi> Mellif. Chir. p. <hi>1.</hi> ſect. <hi>3.</hi> cap. <hi>19. ſaith, Though wounds of the Brain are accounted dead<g ref="char:EOLhyphen"/>ly, yet experience ſheweth
+<pb n="91" facs="tcp:64878:58"/>they are of Curation— <hi>One I ſaw at</hi> Worcester <hi>after the Battel of</hi> Poick; the o<g ref="char:EOLhyphen"/>ther I cured at</hi> Warwick, <hi>of which Mr.</hi> W. Thorp <hi>had a ſight.</hi>
+               </p>
+               <p>Jann Van Beverwick, <hi>a Dutch Chirurgeon, in his</hi> Heel Ronſt. <hi>part 2. cap. 1. ſaith he ſaw two very re<g ref="char:EOLhyphen"/>markable wounds of the Brain cured.</hi>
+               </p>
+               <p>
+                  <hi>It's too tedious to tran<g ref="char:EOLhyphen"/>ſcribe more: I will refer my Reader and my Ad<g ref="char:EOLhyphen"/>verſary to thoſe following, which I will only name.</hi>
+               </p>
+               <p>
+                  <hi>Symphorianus Campe<g ref="char:EOLhyphen"/>gius</hi> ennarrat. Hiſt. <hi>25.</hi> lib. <hi>4.</hi>
+               </p>
+               <p>
+                  <hi>Deſiderius Jacotius</hi> Com<g ref="char:EOLhyphen"/>ment.
+<pb n="92" facs="tcp:64878:59"/>ad Aphor. <hi>18.</hi> lib. <hi>6.</hi> Hippoc.</p>
+               <p>
+                  <hi>J. Langius</hi> Epiſt. Med. lib. <hi>1.</hi> Ep. <hi>6.</hi>
+               </p>
+               <p>
+                  <hi>Felix Wurts,</hi> part. <hi>2.</hi> cap. <hi>8.</hi>
+               </p>
+               <p>
+                  <hi>Marcellus Donatus</hi> lib. <hi>5.</hi> de Hiſt. Med. Mir. c. <hi>4.</hi>
+               </p>
+               <p>
+                  <hi>P. J. Lotichius</hi> lib. <hi>6.</hi> c. <hi>8.</hi> obſ. <hi>2.</hi>
+               </p>
+               <p>
+                  <hi>J. Heurnius</hi> Com. ad A<g ref="char:EOLhyphen"/>phor. Hip. <hi>18.</hi> ſect. <hi>6.</hi>
+               </p>
+               <p>
+                  <hi>J. Skenckius</hi> obſ. med. lib. <hi>1.</hi> obſ. <hi>40.42.</hi>
+               </p>
+               <p>
+                  <hi>Hen. Petreus</hi> tom. <hi>2.</hi> diſp. harmon. <hi>36.</hi> quaeſt. <hi>10.</hi>
+               </p>
+               <p>Dr. <hi>Alexander Read, lect. of Wounds the 23.</hi>
+               </p>
+               <p>
+                  <hi>J. Scultetus,</hi> Armam. Chir. tab. <hi>32.</hi>
+               </p>
+               <pb n="93" facs="tcp:64878:59"/>
+               <p>
+                  <hi>An anonymous Com<g ref="char:EOLhyphen"/>mentator on Mr.</hi> Bannister <hi>of Wounds,</hi> lib. <hi>2.</hi> cap. <hi>1.</hi>
+               </p>
+               <p>
+                  <hi>S. Wiſeman, page 401.</hi>
+               </p>
+               <p>
+                  <hi>J. Brown of Wounds, chap. 35.</hi>
+               </p>
+               <p>
+                  <hi>P. Borellus</hi> cent. <hi>1.</hi> obſ. <hi>88.</hi>
+               </p>
+               <p>
+                  <hi>J. Rhodius</hi> cent. <hi>1.</hi> obſt. <hi>32.</hi>
+               </p>
+               <p>
+                  <hi>Leonard Fuchſius</hi> com<g ref="char:EOLhyphen"/>ment. ad Aphor. <hi>18.</hi> ſect. <hi>6.</hi> Hippoc.</p>
+               <p>
+                  <hi>J. Tagaultius</hi> Inſtit. Chi<g ref="char:EOLhyphen"/>rurg. lib. <hi>2.</hi> cap. <hi>3.</hi>
+               </p>
+               <p>
+                  <hi>Bern. Gordonus</hi> Lilium Med. partic. <hi>1.</hi> cap. <hi>26.</hi>
+               </p>
+               <p>
+                  <hi>J. Bilgerus</hi> Epiſt. G. Hor<g ref="char:EOLhyphen"/>stii obſ. <hi>14.</hi> lib. <hi>2.</hi> par. <hi>2.</hi>
+               </p>
+               <p>
+                  <hi>P. J. Fabrus</hi> Chirurg. Spa<g ref="char:EOLhyphen"/>gyrica
+<pb n="94" facs="tcp:64878:60"/>ſect. <hi>2.</hi> cap. <hi>10.</hi>
+               </p>
+               <p>
+                  <hi>G. Horſtius</hi> Epiſt. Med. lib. <hi>2.</hi> ſect. <hi>8.</hi>
+               </p>
+               <p>
+                  <hi>J. Goulart</hi> Mem. and Ad<g ref="char:EOLhyphen"/>mir. Hiſtories, <hi>page 90.</hi>
+               </p>
+               <p>
+                  <hi>Sim. Aloyſius</hi> obſ. <hi>124.</hi> in Ephim. Germ. Vol. <hi>7.</hi>
+               </p>
+               <p>
+                  <hi>Ph. Jac. Sachz.</hi> obſ. <hi>119.</hi> miſcel. curioſ. annus ſecundus.</p>
+               <p>
+                  <hi>I might alſo quote</hi> Ferne<g ref="char:EOLhyphen"/>lius lib. <hi>7.</hi> cap. <hi>8.</hi> de extern. corp. affect. <hi>and</hi> C. Celſus de re medica lib. <hi>5.</hi> cap. <hi>26.</hi> Serva<g ref="char:EOLhyphen"/>ri non poteſt cui <hi>Baſis</hi> Cerebri percuſſa est. <hi>And</hi> P. Bar<g ref="char:EOLhyphen"/>bet <hi>page 172.</hi> Wounds of the brain are for the moſt part dead<g ref="char:EOLhyphen"/>ly; <hi>for they ſeem to pro<g ref="char:EOLhyphen"/>nounce death to wounds of the Brain not abſolutely,
+<pb n="95" facs="tcp:64878:60"/>but on circumſtances; and therefore are not for, but a<g ref="char:EOLhyphen"/>gainſt my Adverſary: but what is defective in them will be abundantly ſupply<g ref="char:EOLhyphen"/>ed in thoſe three Stories, with which I will try the faith of my Reader, and conclude.</hi>
+               </p>
+               <p>
+                  <hi>Alexander Benedictus</hi> lib. <hi>4.</hi> Anatom. c. <hi>24. as quo<g ref="char:EOLhyphen"/>ted by</hi> Zac. Luſitanus, <hi>(I not having the Original) writes of one,</hi> quem vulnera<g ref="char:EOLhyphen"/>tum circa tempora ſagittâ, post annum <hi>25.</hi> Teli partem ſternu<g ref="char:EOLhyphen"/>tatione rejeciſſe affirmat.</p>
+               <p>
+                  <hi>Tho. Bartholinus</hi> Acta medica pro anno <hi>1676.</hi> obſ. <hi>55. commends from his own
+<pb n="96" facs="tcp:64878:61"/>experience an Oil of</hi> Amber, <hi>made</hi> ſine Igne, <hi>in wounds of the Brain; but in his</hi> Acta Medica Ann <hi>73.</hi> Hiſt. <hi>132. ſaith,</hi> Eques quidam Boruſſus Telum ferreum digitum longum &amp; craſſum, <hi>14.</hi> annis ſine in<g ref="char:EOLhyphen"/>ſigni moleſtia, in cerebro ge<g ref="char:EOLhyphen"/>ſtâſſe narratur. —Tandem per Fauces ſuppuratum eſt. <hi>He names the perſon, all the circumſtances, and a<g ref="char:EOLhyphen"/>mong them a Copy of Verſes in the Church where the Piece of Dart now hangs for a Monument.</hi>
+               </p>
+               <p>
+                  <hi>The Academia Curio<g ref="char:EOLhyphen"/>ſa, Germanica</hi> miſcel. vol. <hi>3.</hi> obſ. <hi>278. relates from</hi> Mar<g ref="char:EOLhyphen"/>tin Schodel, <hi>in</hi> diſſert. de Reg<g ref="char:EOLhyphen"/>no
+<pb n="97" facs="tcp:64878:61"/>Hungarico, Anno <hi>1629. that one</hi> Marcus Buxam <hi>a Captain in Battel againſt the Turks had</hi>— Lancea Turcica per oculum dextrum adacta, ut retro per cervicem exiverit mucrone, mortem non intulit, ſed diligenter Chirurgo<g ref="char:EOLhyphen"/>rum manibus tractatus, reſti<g ref="char:EOLhyphen"/>tutúſque. <hi>They adde ano<g ref="char:EOLhyphen"/>ther Story of a Wound of the Brain cured; and give not only the Figure of this; as ſet up in a Monument in</hi> Hungaria, <hi>but do very well atteſt it.</hi>
+               </p>
+               <p>P. de Marchetis <hi>giveth us five very remarkable Hiſto<g ref="char:EOLhyphen"/>ries of Wounds of the Brain cured: I will not
+<pb n="98" facs="tcp:64878:62"/>tranſcribe them at large, but leave you to judge of them by their ſeveral Ti<g ref="char:EOLhyphen"/>tles,</hi> viz.</p>
+               <p>Obſ. <hi>1.</hi> Vulnus cum fractura cranii, &amp; effluxu particulae cerebri, in ſene ſexagenario.</p>
+               <p>Obſ <hi>2.</hi> Vulnus partis posticae capitis, cum fractu<g ref="char:EOLhyphen"/>ra cranii, &amp; cerebri parte corrupta excreta.</p>
+               <p>Obſ. <hi>3.</hi> Portio cerebri, cum annexa Dura &amp; Pia Membra<g ref="char:EOLhyphen"/>na, ex cranii fractura edu<g ref="char:EOLhyphen"/>cta.</p>
+               <p>Obſ. <hi>4.</hi> Vulnus mediae par<g ref="char:EOLhyphen"/>tis capitis, ad corpus uſque cal<g ref="char:EOLhyphen"/>loſum pervadens, cum magna vi ſanguinis effruſi, ad Lipo<g ref="char:EOLhyphen"/>thymiam uſque feliciter ſanatum.</p>
+               <pb n="99" facs="tcp:64878:62"/>
+               <p>Obſ. <hi>5.</hi> Vulnus magnum, cum paralyſi Brachii oppoſiti, &amp; linguae, ſanatum, educto fruſtulo oſſis, cum portione Membranae Piae, &amp; Cerebri.</p>
+               <p>
+                  <hi>I will conclude all with the words of that excel<g ref="char:EOLhyphen"/>lent Chirurgeon</hi> Fab. Hil<g ref="char:EOLhyphen"/>danus, obſ. <hi>13.</hi> lib. <hi>1. who having related the Stories of four Wounds of the Brain ſaith,</hi>
+               </p>
+               <p>Exempla haec in gratiam tyronum Chirurgorum recenſere placuit, quos adhortor, ne un<g ref="char:EOLhyphen"/>quam de ſanitate, aegri, quan<g ref="char:EOLhyphen"/>tumvis morbus magnus fuerit, ac prima fronte incurabilis vi<g ref="char:EOLhyphen"/>deatur, deſperent, quemadmo<g ref="char:EOLhyphen"/>dum Chirurgus ille, cujus in
+<pb n="100" facs="tcp:64878:63"/>proximo praecedente exemplo mentio facta fuit, de ſalute aegri ſui deſperabat: poſita ita<g ref="char:EOLhyphen"/>que fiducia in Dei Omnipotentia (facta tamen prius Prognoſti<g ref="char:EOLhyphen"/>catione &amp; proteſtatione coram conſanguineis &amp; adſtantibus, de manifeſto periculo) curationem aggredi omnémque diligentiam adhibere debet Chirurgus, nec impio illo Dicto, <hi>Deſperatos non oportet attingere,</hi> ab Officio ſuo avocari. Saepiſſi<g ref="char:EOLhyphen"/>mè enim in morbis contingunt multa, quae antiquos latuerunt, &amp; quorum ratio nulla reddi po<g ref="char:EOLhyphen"/>teſt.</p>
+            </div>
+            <div type="epilogue">
+               <pb n="101" facs="tcp:64878:63"/>
+               <head>THE EPILOGUE To my Learned and Civil ANTAGONIST, Dr W. Durſton OF <hi>PLIMOUTH.</hi>
+               </head>
+               <p>HAving been at the trouble and pains to write an Hi<g ref="char:EOLhyphen"/>ſtory, and collect ſo many Quotations to convince You <hi>(Worthy Sir)</hi> that Wounds of the Brain are
+<pb n="102" facs="tcp:64878:64"/>curable; I could not part ſo abruptly, or bid adieu to a Perſon of Your Me<g ref="char:EOLhyphen"/>rit and Candor, till I had not only expoſtulated a little with You, but enter<g ref="char:EOLhyphen"/>tained You with one won<g ref="char:EOLhyphen"/>derful Story more, which ſeveral modern Obſerva<g ref="char:EOLhyphen"/>tors relate, <hi>viz.</hi> That on diſſection, they have found not only Sheep, and Crea<g ref="char:EOLhyphen"/>tures of a mere ſenſitive, but ſome of the rational Species, <hi>without any Brain at all.</hi>
+                  <note place="margin">Zacut. Lu<g ref="char:EOLhyphen"/>ſit. prax. mir. lib. 1. obſerv. 5. Fr. Jo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Burii Epiſt. 1. ad Tho. Bartholin. Theod. Kirking Spic. Anatomic. obſ. 46. Nie. Tulpius obſ. m. lib 1. obſ. 24. Miſcel. Curioſa Germ. Vol 2. obſ. 36. Tho. Barthol. Acta Med. Anno 71, 72. obſ. 131. J. Rhodius cent. 1. obſ. 32. pag. 19.</note> They are many that thus ſay; and indeed they
+<pb n="103" facs="tcp:64878:64"/>are things that ſtrain a mans faith no leſs than his reaſon. I muſt confeſs my ſelf ſo credulous, and apt to believe, that I am al<g ref="char:EOLhyphen"/>moſt perſwaded, Your death (if Your Skull be penetrable) will furniſh the World with an inſtance more ſurprizing and incre<g ref="char:EOLhyphen"/>dible, <hi>viz.</hi> a Man above fif<g ref="char:EOLhyphen"/>ty years old no better ſtockt in the Noddle than thoſe o<g ref="char:EOLhyphen"/>ther addle-headed Cattel: If the contrary appear, it will certainly be the firſt e<g ref="char:EOLhyphen"/>vidence You ever yielded of having any. Had You as much as this Child loſt, (whole Caſe your
+<pb n="104" facs="tcp:64878:65"/>incivility hath extorted from me) You would not have given the lye to the eyes and fingers of a Phyſi<g ref="char:EOLhyphen"/>an, a Gentleman, an Apo<g ref="char:EOLhyphen"/>thecary, a Chirurgion, and divers others; and (with<g ref="char:EOLhyphen"/>out the help of a Tele<g ref="char:EOLhyphen"/>ſcope) pretend to ſee bet<g ref="char:EOLhyphen"/>ter at a miles diſtance, than they at the neareſt advan<g ref="char:EOLhyphen"/>tage for proſpect. Who but a brainleſs Phyſician would oppoſe his ſingle and ungrounded opinion a<g ref="char:EOLhyphen"/>gainſt the ſenſe and obſer<g ref="char:EOLhyphen"/>vation of a multitude of the beſt and moſt reputable Authors; and not only ſneakingly, and in Corners,
+<pb n="105" facs="tcp:64878:65"/>but publickly averr and hold Guineys, that Wounds of the Brain were incura<g ref="char:EOLhyphen"/>ble; when the contrary is affirmed by ſo many learn<g ref="char:EOLhyphen"/>ed and experienced men, living and dead? What! Have You read nothing but <hi>Hippocrates</hi>'s Aphoriſms? Is there not a <hi>Galen,</hi> nor a <hi>Sennertus,</hi> a <hi>Bartholine,</hi> nor a <hi>Sckenckius,</hi> a <hi>Horſtius,</hi> nor a <hi>Bauhine,</hi> a <hi>Fallopius,</hi> nor a <hi>Laurentius,</hi> a <hi>Foreſtus,</hi> nor an <hi>Hildanus,</hi> a <hi>Zacutus,</hi> nor a <hi>Pareus,</hi> in Your Study? Or are they there to be lookt upon only? I never thought your Library a <hi>Va<g ref="char:EOLhyphen"/>tican:</hi> But I expected it
+<pb n="106" facs="tcp:64878:66"/>ſhould exceed that which <hi>Rablaias</hi> tells us was in <hi>Pan<g ref="char:EOLhyphen"/>tagruel</hi>'s Study, and <hi>Sam<g ref="char:EOLhyphen"/>pſon Caraſco,</hi> in that of <hi>Don Quixot.</hi>
+               </p>
+               <p>I have been told indeed by a worthy Perſon, That You lately in a Bravado boaſted You had done with Books, things were <hi>common-plac'd in Your head.</hi> I believe there wants not room for them, and that what's there is common e<g ref="char:EOLhyphen"/>nough; for things a degree above it, I find are not in your Index.</p>
+               <p>
+                  <hi>Honeſt Doctor,</hi> I beg You not to conclude hence that I deny You to be
+<pb n="107" facs="tcp:64878:66"/>learned: I acknowledge your skill in Grammar, and I have a particular reaſon for it: But in ſome matters of Art and learning You muſt confeſs your ſelf ig<g ref="char:EOLhyphen"/>norant, or a wicked and ſcandalous Prevaricator; for from thoſe numerous Quotations which I have cited from Authors of the beſt credit and commoneſt reading, not only in Chi<g ref="char:EOLhyphen"/>rurgery, but Anatomy, Philoſophy and Phyſick; it's plainly inferrible, that You are the one or the other.</p>
+               <p>The <hi>Dilemma</hi> (Civil Sir) lyeth thus: Either You knew thoſe Authors did
+<pb n="108" facs="tcp:64878:67"/>contain thoſe affirmations, or You knew it not; if You knew it, the laſt Point of the <hi>Dilemma</hi> is in your teeth; if You knew it not, the conſequence is moſt plain and natural, That You are (in ſome things) ignorant. I have been told, that ſince You have been convinced by us, You have excuſed your ſelf to ſome by ſaying You ſpoke in jeſt, to others by ſug<g ref="char:EOLhyphen"/>geſting You had forgotten thoſe readings. By which excuſes You entangle your ſelf in both theſe Noozes. For is a man the leſs wick<g ref="char:EOLhyphen"/>ed not a more knaviſh
+<pb n="109" facs="tcp:64878:67"/>Prevaricator, for wound<g ref="char:EOLhyphen"/>ing a mans reputation in jeſt, and ſacrificing the good name and honour, not of a ſingle Artiſt, but a whole Fraternity, to ſport? You know who betrayed with a kiſs. The trivialneſs of the induce<g ref="char:EOLhyphen"/>ment, and lightneſs of the provocation, aggravates the knavery of the action. What! Cut the throats of men for paſtime, and turn Gladiator for a Farthing? To have pretended re<g ref="char:EOLhyphen"/>venge, advantage or poli<g ref="char:EOLhyphen"/>cy, had been equally ho<g ref="char:EOLhyphen"/>neſt, and more generous. In <hi>Italy</hi> the Slaves ſlab for a
+<pb n="110" facs="tcp:64878:68"/>Ryal (that's but Six Pence) but the <hi>Heroes</hi> and the <hi>Bra<g ref="char:EOLhyphen"/>voes</hi> are thoſe that ſcorn to undertake it under a hun<g ref="char:EOLhyphen"/>dred, two or three of Crowns.</p>
+               <p>Nor will your forgetful<g ref="char:EOLhyphen"/>neſs excuſe your ignorance, except You ſhew alſo the difference between an ig<g ref="char:EOLhyphen"/>norant man, and one that neither obſerves nor re<g ref="char:EOLhyphen"/>members what he reads, e<g ref="char:EOLhyphen"/>ſpecially when of ſo conſi<g ref="char:EOLhyphen"/>derable a nature as this, and ſo frequently mentioned. I perceive by your laſt ex<g ref="char:EOLhyphen"/>cuſe, that the Common-Place-Book in your head was but a Vapour, or You
+<pb n="111" facs="tcp:64878:68"/>lodged it in your Skull in<g ref="char:EOLhyphen"/>compleat.</p>
+               <p>But let's ceaſe to be Sa<g ref="char:EOLhyphen"/>tyrical like Poets, and argue rationally like Phyſicians, and expoſtulate the Caſe a little. Suppoſe it had ne<g ref="char:EOLhyphen"/>ver been known <hi>de facto</hi> that Wounds of the Brain were curable, is that reaſon enough for a wiſe and ex<g ref="char:EOLhyphen"/>perienced man, one that daily beholdeth the prodi<g ref="char:EOLhyphen"/>gious effects of Art, and the encreaſe of skill, to affirm they never can? How ri<g ref="char:EOLhyphen"/>diculous is the memory of thoſe that anathematized the Biſhop, for affirming that there were <hi>Antipodes?</hi>
+                  <pb n="112" facs="tcp:64878:69"/>And they that put <hi>Galileo</hi> into the Inquiſition, for his new Philoſophy, now ſo much in vogue even a<g ref="char:EOLhyphen"/>mong the moſt learned of the Jeſuites themſelves? How imprudent is it to barr Poſterity by unreaſon<g ref="char:EOLhyphen"/>able anticipations, and hang or damn men for opi<g ref="char:EOLhyphen"/>nions that by to morrow poſſeſs our own Brains?</p>
+               <p>I am ſo far from denying (what ſeems impoſſible) that Poſterity may famili<g ref="char:EOLhyphen"/>arly make Voyages to the Moon, that I am almoſt perſwaded with Biſhop <hi>Wilkins</hi> and others, (not leſs eminent for, their piety
+<pb n="113" facs="tcp:64878:69"/>than learning) that it will be ſo. Navigation, to for<g ref="char:EOLhyphen"/>mer times, before Ships were invented, muſt have ſeemed as abſurd and im<g ref="char:EOLhyphen"/>poſſible; to have ſaid then that men in great numbers together ſhould travel ſo many thouſand miles on the Ocean, without ſeeing any Land, till they hit di<g ref="char:EOLhyphen"/>rectly to a ſmall Iſland (ſuppoſe it St. <hi>Helena</hi>) had been laugh'd at as much as this is by ſome men now. How many prodigious things are there done in this laſt Age, that to the former ſeemed impoſſible? And how are we puzled
+<pb n="114" facs="tcp:64878:70"/>now to recover and believe many things <hi>Pancirollus</hi> ſaith were done by the An<g ref="char:EOLhyphen"/>cients, and loſt to us? Should all be <hi>Scepticks,</hi> and think nothing poſſible but what they ſee, we ſhould neither believe him, nor hope any future improve<g ref="char:EOLhyphen"/>ment by invention. Had our Predeceſſors, and ma<g ref="char:EOLhyphen"/>ny Contemporaries, been of that humour, they had ſat down in deſpair, con<g ref="char:EOLhyphen"/>tented with what they knew; many uſeful diſco<g ref="char:EOLhyphen"/>veries and noble inventions had ſtill remained in the hands of oblivion. I doubt not, at leaſt I will not deny,
+<pb n="115" facs="tcp:64878:70"/>that the perpetual Motion, Quadrature of the Circle, Philoſophers Stone, Uni<g ref="char:EOLhyphen"/>verſal<note place="margin">n="*" See <hi>Hel<g ref="char:EOLhyphen"/>mont's</hi> ac<g ref="char:EOLhyphen"/>count of <hi>Butler</hi>'s Stone.</note> Remedy, the Anti-Chriſt; manner of know<g ref="char:EOLhyphen"/>ing longitude at Sea; ſo much ſought after, and puzling the minds of ma<g ref="char:EOLhyphen"/>ny men, together with all the <hi>deſiderata</hi> will be diſco<g ref="char:EOLhyphen"/>vered and invented.</p>
+               <p>But we will talk more ſtrictly like Phyſicians: What is there in the Ana<g ref="char:EOLhyphen"/>tomy of the Brain (eſpeci<g ref="char:EOLhyphen"/>ally the Cortical part) as delivered to us by the hands of the accurate and moſt renowned <hi>Willis, Highmore</hi> and <hi>Malpighius,</hi> that can ju<g ref="char:EOLhyphen"/>ſtifie
+<pb n="116" facs="tcp:64878:71"/>your opinion? I be<g ref="char:EOLhyphen"/>lieve it might be demon<g ref="char:EOLhyphen"/>ſtrated (but it were too te<g ref="char:EOLhyphen"/>dious, and I have more di<g ref="char:EOLhyphen"/>rect proof) from their ſe<g ref="char:EOLhyphen"/>veral <hi>Hypotheſes</hi> concerning it, that the opinion (not of <hi>Hippocrates,</hi> for he wanted thoſe compleat deſcriptions and notions concerning it) is abſurd and groundleſs, in ſuch who after thoſe illumi<g ref="char:EOLhyphen"/>nations perſiſt in errours, the defective knowledge of our Forefathers made them ſeem guilty of. It's pertinacity in You, after all thoſe reaſons to the contra<g ref="char:EOLhyphen"/>ry, and being told of ſo many Authors againſt You,
+<pb n="117" facs="tcp:64878:71"/>to continue two years in a miſtake. If it were the o<g ref="char:EOLhyphen"/>pinion of <hi>Hippocrates,</hi> it was but in him an errour or defect. Divers of his Commentators make it probable he meant not as You do, that thoſe Wounds were incurable; but that they were for the moſt part ſo, or that very great ones were mortal.</p>
+               <p>But ſhould it be allow<g ref="char:EOLhyphen"/>ed according to your ap<g ref="char:EOLhyphen"/>prehenſion and interpreta<g ref="char:EOLhyphen"/>tion, are his Aphoriſms in<g ref="char:EOLhyphen"/>fallible? are there not ſome of them which every days experience confuteth?<note place="margin">Est mag<g ref="char:EOLhyphen"/>nopere me<g ref="char:EOLhyphen"/>dicis ex<g ref="char:EOLhyphen"/>penden<g ref="char:EOLhyphen"/>dum, quod in morbis graviſſimis ſape eva<g ref="char:EOLhyphen"/>dunt, vel imbelles plurimi, e<g ref="char:EOLhyphen"/>tiam omni<g ref="char:EOLhyphen"/>bus recla<g ref="char:EOLhyphen"/>mantibus notis, quae juata Hip<g ref="char:EOLhyphen"/>pocratis ſa<g ref="char:EOLhyphen"/>croſancta o<g ref="char:EOLhyphen"/>racula mortem in limine eſſe deſignent, ſic in vul<g ref="char:EOLhyphen"/>neribus ce<g ref="char:EOLhyphen"/>rebri— <hi>C. Gemma l. 1. c. 6. Coſmic.</hi>
+                  </note> I will give You two for a
+<pb n="118" facs="tcp:64878:72"/>taſte, and refer You to <hi>San<g ref="char:EOLhyphen"/>ctorius</hi> for a Belly<g ref="char:EOLhyphen"/>full,<note place="margin">Method. vi. tand. error. in med. lib. 1. cap. 31.</note> 
+                  <hi>Sect</hi> 5. <hi>Aphor.</hi> 31. he ſaith, <hi>Mu<g ref="char:EOLhyphen"/>lier utero gerens, ſanguine miſſo ex vena, abortet.</hi> Did that ever deter You from bleeding a teeming Wo<g ref="char:EOLhyphen"/>man? <hi>Hippocrates</hi> fearing the Precept would not be ſufficiently obliging, makes it a part of the matricula<g ref="char:EOLhyphen"/>ting Oath, which all his Diſciples took, that they ſhould not bleed a gravid Woman. This made Phle<g ref="char:EOLhyphen"/>botomy ſo terrible to big Bellies, that Pleuriſies and the ſevereſt caſes, could ſcarce obtain the uſe of a
+<pb n="119" facs="tcp:64878:72"/>Launcet, let the Age, Con<g ref="char:EOLhyphen"/>ſtitution, Seaſon and Clime be what it would. <hi>Nimium antiquos ſcrupuloſos circa V. S. in gravidis— in Graeca major apprehenſio fuit.</hi> —but now it's become the common reme<g ref="char:EOLhyphen"/>dy of abortion, frequent<g ref="char:EOLhyphen"/>ly done in all times of their breeding, and an oppoſite <hi>Aphoriſm</hi> ſet up,<note place="margin">Primrof. Vulgi er<g ref="char:EOLhyphen"/>rorib. lib. 4. cap. 27.53.</note> 
+                  <hi>Gravidis ve<g ref="char:EOLhyphen"/>nae ſectione mnon eſſe noxiam;</hi>
+                  <note place="margin">n="†" J. Schmidt. obſ. 48. Ephim. Germ. vol. 7.</note> 
+                  <hi>Certè ego in praxi mea ſine noxâ, tempore ingravidationis omni, urgente neceſſitate febri<g ref="char:EOLhyphen"/>le, ſanguinem tuto detraxi, non raro iteratis vicibus, non raro in ſatis bona quantitate, neque unquam aliquam inde percepi noxam—</hi>
+                  <q>This one A<g ref="char:EOLhyphen"/>phoriſm,</q>
+                  <pb n="120" facs="tcp:64878:73"/>ſaith the Famous Mr. <hi>Boyle,</hi>
+                  <note place="margin">Exper. Philoſ. par. 2. pag. 5. E<g ref="char:EOLhyphen"/>dir. 2.</note> 
+                  <q>hath coſt more lives than <hi>Draco</hi>'s Laws, which were written in bloud; having for divers Ages prevailed with great numbers of Phyſi<g ref="char:EOLhyphen"/>cians, to ſuffer multitudes of their Female Patients to dye under their hands, who might probably have been reſcued by diſ<g ref="char:EOLhyphen"/>creet Phlebotomy, which experience hath aſſured us hath been ſometimes not only ſafely, but care<g ref="char:EOLhyphen"/>fully employed, even when the Infant is grown pretty big. —Through this miſtake numbers of
+<pb n="121" facs="tcp:64878:73"/>teeming Women have been ſuffered to periſh, who might probably by a ſeaſonable loſs of ſome of their blood, have pre<g ref="char:EOLhyphen"/>vented that of their lives.</q> So far that honourable Au<g ref="char:EOLhyphen"/>thor.</p>
+               <p>Another ſaith, It hath coſt more lives than there are Letters in that Book; and <hi>Sanctorius</hi> in one Cha<g ref="char:EOLhyphen"/>pter,<note place="margin">Ubi ſupra lib. 15. cap. 11.</note> 
+                  <hi>Oſtenditur exemplo loca<g ref="char:EOLhyphen"/>lium, quod quaelibet ſententia Me<g ref="char:EOLhyphen"/>dicorum ſit methodi cenſura mo<g ref="char:EOLhyphen"/>deranda,</hi> as it were cryeth out, <hi>Exempla in medicina ſunt innumerabilia —Ecce quod me<g ref="char:EOLhyphen"/>dica praecepta, nifi methodo ponderentur, &amp; moderentur,
+<pb n="122" facs="tcp:64878:74"/>ſaepe nos fallere poſſint.</hi>
+               </p>
+               <p>The other Aphoriſm is the 58th of the ſixth Secti<g ref="char:EOLhyphen"/>on, where he delivereth, <hi>Si omentum excidat, neceſſario putreſcit.</hi> I need not quote Authors to ſhew the mi<g ref="char:EOLhyphen"/>ſtake thereof; but with <hi>Sanctorius</hi> conclude, That all the Sentences of <hi>Hippo<g ref="char:EOLhyphen"/>crates</hi> are not of perpetual verity, ſince <hi>Galen</hi> himſelf in his Comment on that A<g ref="char:EOLhyphen"/>phoriſm ſaith, <hi>Si quis vero aliquando vidit omentum, quod parvo tempore extra prodierit, &amp; deinde ad ſuum locum redu<g ref="char:EOLhyphen"/>ctum, non putruerit, perpetuam quidem, non eſſe probabit Hip<g ref="char:EOLhyphen"/>pocratis enuntiationem.</hi> And
+<pb n="123" facs="tcp:64878:74"/>that the World ſince he wrote it, hath had a thou<g ref="char:EOLhyphen"/>ſand Obſervations, contra<g ref="char:EOLhyphen"/>ry to that Aphoriſm, even beyond the enlarged ſence that he in the beginning of his Comment thereon would have it underſtood, we may therefore make the inference of my Author, <hi>Plures Aphoriſmos non eſſe eter<g ref="char:EOLhyphen"/>nae veritatis,</hi> and doubt whe<g ref="char:EOLhyphen"/>ther this alſo may not have tempted our Predeceſſors immediately to cut off the elapſed part of the <hi>Zirbus,</hi> without trying whether they could reduce or pre<g ref="char:EOLhyphen"/>ſerve it; a thing common now, even after it hath been
+<pb n="124" facs="tcp:64878:75"/>ſome conſiderable time in the crude Air.</p>
+               <p>Will You not ſubmit to daily experience, loudly proclaiming the miſchief of ſuch Principles, rather than <hi>jurare in verba Magiſtri?</hi> Sir <hi>Thomas Brown</hi> tells us, He knew a Divine in <hi>France,</hi> a Man of ſingular Parts, that was ſo plunged with three Lines of <hi>Seneca,</hi> that all the Antidotes drawn from Scripture and Philoſophy could not expel the poyſon of his errour, —<hi>Poſt mortem nihil eſt, ipſáque Mors nihil. Mors individua eſt, noxia Cor<g ref="char:EOLhyphen"/>pori, nec parcens animae— toti morimur, nullaque pars ma<g ref="char:EOLhyphen"/>net
+<pb n="125" facs="tcp:64878:75"/>Noſtri</hi>—We find Wounds not only of the Brain, but Stomach, Li<g ref="char:EOLhyphen"/>ver, Guts, Heart, Bladder, <hi>&amp;c.</hi> cured, maugre the ad<g ref="char:EOLhyphen"/>mired Aphoriſm of <hi>Hip<g ref="char:EOLhyphen"/>pocrates</hi> that ſeems to con<g ref="char:EOLhyphen"/>tradict it. And this made good to us in the Obſerva<g ref="char:EOLhyphen"/>tions not of <hi>Pliny, Amatus Luſitanus, Baptiſta Porta, Goulart,</hi> or <hi>Mandevil;</hi> but of <hi>Fallopius, Foreſtus, Skencki<g ref="char:EOLhyphen"/>us, Hildanus, Zacutus;</hi> and a Body of the beſt Phyſi<g ref="char:EOLhyphen"/>ans in <hi>Germany.</hi> Shall we not believe them, confirm<g ref="char:EOLhyphen"/>ed by experience, rather than two ambiguous Lines in <hi>Hippocrates?</hi>
+               </p>
+               <pb n="126" facs="tcp:64878:76"/>
+               <p>
+                  <hi>Dear Sir,</hi> I beg your pa<g ref="char:EOLhyphen"/>tience one minute more, while I comfort my ſelf after all your affronts with thinking how general they are. <hi>Society,</hi> You know, <hi>alleviates miſery.</hi> It's not my particular ſelf alone that You have reproached; all of my way in theſe Parts are in the ſame Predica<g ref="char:EOLhyphen"/>ment. But I thank You kindly, You treat us no worſe than You do thoſe of the Faculty to which You pretend a more immediate relation. Every Doctor is a Novice, an <hi>Ignoramus,</hi> and an obſcure Fellow, in the preſence of ſuch an <hi>Apollo</hi>
+                  <pb n="127" facs="tcp:64878:76"/>as You, like Candles in the Sun.</p>
+               <p>
+                  <hi>Civil Sir,</hi> Be adviſed and perſwaded for the ſake of your own credit, and the reputation of your Fa<g ref="char:EOLhyphen"/>culty and mine, to be here<g ref="char:EOLhyphen"/>after more prudent, more civil; forbear to diſparage Artiſts, for thereby You will find (in the end) diſ<g ref="char:EOLhyphen"/>reputation to redound, not only to the Profeſſion, but your ſelf alſo, who muſt needs ſuffer in the general contempt and ruine ſuch vituperations will produce: By your reproaching your Brethren, they are tempt<g ref="char:EOLhyphen"/>ed to retaliate and recrimi<g ref="char:EOLhyphen"/>nate;
+<pb n="128" facs="tcp:64878:77"/>and the World, apt to believe both, will make Concluſions very ruinous to all. <hi>Utrum horum, &amp;c.</hi>
+               </p>
+               <p>If I ſeem too ſevere in my reproofs, and guilty of an incivility in treating You, which I have con<g ref="char:EOLhyphen"/>demned in your demeanour to my ſelf; I hope my A<g ref="char:EOLhyphen"/>pology will be eaſie to any man that conſiders who was the Aggreſſor; that I have forborn You two years, and that now neceſ<g ref="char:EOLhyphen"/>ſitated to vindicate my ſelf, I have done it fairly and a<g ref="char:EOLhyphen"/>bove board. The Law excuſeth a man if he kill a<g ref="char:EOLhyphen"/>nother in defence of his
+<pb n="129" facs="tcp:64878:77"/>own life. If your reputa<g ref="char:EOLhyphen"/>tion be wounded by this Vindication and Defence of mine, the Law of Reaſon (they ſay, <hi>Reaſon is the ſoul of the Law</hi>) will quit me on the ſame Principle. The Author of the moſt peace<g ref="char:EOLhyphen"/>able and paſſive Religion in the World, by recom<g ref="char:EOLhyphen"/>mending the Serpent with the Dove, tacitely allow<g ref="char:EOLhyphen"/>eth us to turn and ſting thoſe that tread on us.</p>
+               <p>But however, I ſhall not be ſorry if your reputation eſcape; my deſign was to defend my own, not ruine yours; nor only to repar<g ref="char:EOLhyphen"/>tee
+<pb n="130" facs="tcp:64878:78"/>on You by this Epi<g ref="char:EOLhyphen"/>logue. It was alſo to re<g ref="char:EOLhyphen"/>commend a more prudent Principle to You, and to do You juſtice; for to You is the World indebted for what benefit or advantage it may obtain by the pub<g ref="char:EOLhyphen"/>lication of this Narrative. I am very deſirous they ſhould not only pay that thanks that is your due, for ſo ſignal a favour; but know alſo to how honeſt, how civil and how learned a Gentleman they are behol<g ref="char:EOLhyphen"/>den, that they may pro<g ref="char:EOLhyphen"/>portion their gratitude to the Degree and Merit of
+<pb n="131" facs="tcp:64878:78"/>the Perſon to whom they are redevable. I preſume they will be more charita<g ref="char:EOLhyphen"/>ble to us than You were, and (which is all I have to beg of them) infer more juſtly and ingeniouſly, That they are no Fools and <hi>Igno<g ref="char:EOLhyphen"/>ramus's</hi> that can cure at this rate, nor Knaves that can ſo well vindicate and juſti<g ref="char:EOLhyphen"/>fie their actions, and are not aſhamed to diſplay them to the whole World.</p>
+               <p>And now, <hi>my most worthy Opponent,</hi> I have done the E<g ref="char:EOLhyphen"/>pilogue, not for want of matter, for I have abun<g ref="char:EOLhyphen"/>dance
+<pb n="132" facs="tcp:64878:79"/>more and better at your ſervice, when your next courteſy ſhall draw them from the Pen of</p>
+               <closer>
+                  <signed>J. Y.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64878:79"/>
+         </div>
+      </body>
+   </text>
+</TEI>
